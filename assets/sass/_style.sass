@@ -3,3 +3,13 @@
         margin-bottom: $spacing2
 .lead
     font-style: italic
+
+.blocks
+    .block-video
+        @include in-page-without-sidebar
+            background-color: $color-accent
+            padding-bottom: $spacing3
+            padding-top: $spacing3
+            .video
+                width: col(10)
+                padding-left: offset(2)
