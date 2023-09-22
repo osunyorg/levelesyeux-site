@@ -3,6 +3,11 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 
+deployment:
+  targets:
+    - name: "production"
+      URL: "s3://1ba05ebfa910e2306fd245268b18e6f834ade61eeeacf5de3beb43480af58c58?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+
 params:
   logo:
     header: "/assets/images/logo.png"
