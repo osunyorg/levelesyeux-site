@@ -21,8 +21,4 @@ items:
   target: "/test/"
   kind: page
   children: []
-- title: Pourquoi lever les yeux
-  target: "/pourquoi-lever-les-yeux/"
-  kind: page
-  children: []
 
