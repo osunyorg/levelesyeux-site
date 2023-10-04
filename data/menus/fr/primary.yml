@@ -13,6 +13,10 @@ items:
     target: "/pourquoi-lever-les-yeux/"
     kind: page
     children: []
+- title: Interventions
+  target: ''
+  kind: url
+  children: []
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -28,9 +32,5 @@ items:
 - title: Test
   target: "/test/"
   kind: page
-  children: []
-- title: Interventions
-  target: ''
-  kind: url
   children: []
 
