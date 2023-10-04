@@ -5,6 +5,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: L'association
+    target: "/lassociation/"
+    kind: page
+    children: []
   - title: 'Pourquoi lever les yeux ? '
     target: "/pourquoi-lever-les-yeux/"
     kind: page
