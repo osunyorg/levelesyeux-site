@@ -4,7 +4,11 @@ items:
 - title: Qui sommes-nous ?
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: 'Pourquoi lever les yeux ? '
+    target: "/pourquoi-lever-les-yeux/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
