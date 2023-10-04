@@ -21,4 +21,8 @@ items:
   target: "/test/"
   kind: page
   children: []
+- title: Qui sommes-nous ?
+  target: ''
+  kind: blank
+  children: []
 
