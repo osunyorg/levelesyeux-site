@@ -21,12 +21,4 @@ items:
     target: "/agenda/"
     kind: page
     children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
-- title: Test
-  target: "/test/"
-  kind: page
-  children: []
 
