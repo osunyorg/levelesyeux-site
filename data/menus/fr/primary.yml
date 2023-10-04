@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
 - title: Interventions
-  target: ''
+  target: https://levelesyeux.web.deuxfleurs.fr/agenda/
   kind: url
   children:
   - title: Agenda
