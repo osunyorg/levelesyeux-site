@@ -25,4 +25,8 @@ items:
     target: "/lassociation/label/"
     kind: page
     children: []
+- title: Interventions
+  target: ''
+  kind: blank
+  children: []
 
