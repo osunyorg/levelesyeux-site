@@ -17,10 +17,6 @@ items:
     target: "/lassociation/les-artistes/"
     kind: page
     children: []
-  - title: Les associations amies et partenaires
-    target: "/lassociation/les-associations-amies-et-partenaires/"
-    kind: page
-    children: []
   - title: Label
     target: "/lassociation/label/"
     kind: page
