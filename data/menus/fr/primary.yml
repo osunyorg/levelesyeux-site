@@ -13,4 +13,8 @@ items:
     target: "/pourquoi-lever-les-yeux/"
     kind: page
     children: []
+  - title: Les artistes
+    target: "/lassociation/les-artistes/"
+    kind: page
+    children: []
 
