@@ -65,4 +65,8 @@ items:
     target: "/plaidoyer/nos-publications/"
     kind: page
     children: []
+  - title: Notes de lecture
+    target: ''
+    kind: blank
+    children: []
 
