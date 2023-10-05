@@ -21,4 +21,8 @@ items:
     target: "/les-associations-amies-et-partenaires/"
     kind: page
     children: []
+  - title: Label
+    target: "/lassociation/label/"
+    kind: page
+    children: []
 
