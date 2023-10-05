@@ -13,16 +13,16 @@ items:
     target: "/pourquoi-lever-les-yeux/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/lassociation/les-associations-amies-et-partenaires/"
+    kind: page
+    children: []
   - title: Les artistes
     target: "/lassociation/les-artistes/"
     kind: page
     children: []
   - title: Label
     target: "/lassociation/label/"
-    kind: page
-    children: []
-  - title: Partenaires
-    target: "/lassociation/les-associations-amies-et-partenaires/"
     kind: page
     children: []
 - title: Interventions
