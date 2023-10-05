@@ -37,6 +37,10 @@ items:
     target: "/jeunesse/"
     kind: page
     children: []
+  - title: Parents
+    target: "/parents/"
+    kind: page
+    children: []
   - title: Entreprises
     target: "/entreprises/"
     kind: page
