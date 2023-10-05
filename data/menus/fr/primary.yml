@@ -69,10 +69,18 @@ items:
     target: ''
     kind: blank
     children: []
+- title: On parle de nous
+  target: "/on-parle-de-nous/"
+  kind: page
+  children: []
 - title: Nous soutenir
   target: ''
   kind: blank
   children:
+  - title: Adhérer
+    target: "/adherer/"
+    kind: page
+    children: []
   - title: Faire un don
     target: https://www.helloasso.com/associations/leve-les-yeux/formulaires/3/widget
     kind: url
