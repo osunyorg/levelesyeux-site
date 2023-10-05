@@ -72,5 +72,9 @@ items:
 - title: Nous soutenir
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Faire un don
+    target: https://www.helloasso.com/associations/leve-les-yeux/formulaires/3/widget
+    kind: url
+    children: []
 
