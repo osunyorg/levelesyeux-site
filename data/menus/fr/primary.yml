@@ -33,6 +33,10 @@ items:
     target: "/agenda/"
     kind: page
     children: []
+  - title: Entreprises
+    target: "/entreprises/"
+    kind: page
+    children: []
   - title: Conférences
     target: "/conferences/"
     kind: page
