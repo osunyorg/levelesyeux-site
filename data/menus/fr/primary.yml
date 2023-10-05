@@ -69,6 +69,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: 'Notre livre : La Guerre de l''attention'
+    target: "/actualites/2022-02-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
+    kind: post
+    children: []
   - title: Revue de presse
     target: "/revue-de-presse/"
     kind: page
