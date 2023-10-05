@@ -25,18 +25,6 @@ items:
     target: "/lassociation/label/"
     kind: page
     children: []
-- title: Plaidoyer
-  target: "/plaidoyer/"
-  kind: page
-  children:
-  - title: Collectif Attention
-    target: "/collectif-attention/"
-    kind: page
-    children: []
-  - title: Nos publications
-    target: "/plaidoyer/nos-publications/"
-    kind: page
-    children: []
 - title: Interventions
   target: ''
   kind: blank
@@ -63,6 +51,18 @@ items:
     children: []
   - title: Le jeu Planète Déconnexion
     target: "/le-jeu-planete-deconnexion/"
+    kind: page
+    children: []
+- title: Plaidoyer
+  target: "/plaidoyer/"
+  kind: page
+  children:
+  - title: Collectif Attention
+    target: "/collectif-attention/"
+    kind: page
+    children: []
+  - title: Nos publications
+    target: "/plaidoyer/nos-publications/"
     kind: page
     children: []
 
