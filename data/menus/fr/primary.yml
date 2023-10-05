@@ -69,6 +69,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: Revue de presse
+    target: "/revue-de-presse/"
+    kind: page
+    children: []
 - title: On parle de nous
   target: "/on-parle-de-nous/"
   kind: page
