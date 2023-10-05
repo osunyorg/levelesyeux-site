@@ -21,6 +21,10 @@ items:
     target: "/lassociation/label/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/lassociation/les-associations-amies-et-partenaires/"
+    kind: page
+    children: []
 - title: Interventions
   target: ''
   kind: blank
