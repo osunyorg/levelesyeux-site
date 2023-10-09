@@ -65,6 +65,10 @@ items:
     target: "/plaidoyer/nos-publications/"
     kind: page
     children: []
+  - title: Notes de lecture
+    target: "/notes-de-lecture/"
+    kind: page
+    children: []
   - title: 'Notre livre : La Guerre de l''attention'
     target: "/actualites/2022-02-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
     kind: post
