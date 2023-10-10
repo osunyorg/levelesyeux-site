@@ -97,4 +97,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Newsletter
+  target: "/newsletter/"
+  kind: page
+  children: []
 
