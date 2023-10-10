@@ -85,12 +85,12 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Contact
-    target: "/contact/"
-    kind: page
-    children: []
   - title: Adhérer
     target: "/adherer/"
+    kind: page
+    children: []
+  - title: Contact
+    target: "/contact/"
     kind: page
     children: []
   - title: Faire un don
