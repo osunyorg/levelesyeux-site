@@ -85,6 +85,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Contact
+    target: "/contact/"
+    kind: page
+    children: []
   - title: Adhérer
     target: "/adherer/"
     kind: page
@@ -93,10 +97,6 @@ items:
     target: https://www.helloasso.com/associations/leve-les-yeux/formulaires/3/widget
     kind: url
     children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Newsletter
   target: "/newsletter/"
   kind: page
