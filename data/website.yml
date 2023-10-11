@@ -7,6 +7,7 @@ external_domains:
   - "tile.openstreetmap.org"
   - "player.vimeo.com"
   - "www.youtube.com"
+  - "www.helloasso.com"
 social:
   email: >-
     contact@levelesyeux.com
