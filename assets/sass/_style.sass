@@ -13,3 +13,25 @@
             .video
                 width: col(10)
                 padding-left: offset(2)
+    .block-chapter
+        &--alt_background
+            background: none !important
+            .chapter
+                background: none !important
+                .text
+                    padding: 0 !important
+                    .rich-text
+                        @include lead
+
+.events
+    @include in-page-with-or-without-sidebar
+        .event-dates
+            @include h2
+            .event-time
+                @include meta
+                margin-top: $spacing0
+
+.toc 
+    ol 
+        .active
+            color: $color-dark
