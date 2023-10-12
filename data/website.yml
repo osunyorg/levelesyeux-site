@@ -5,8 +5,13 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
+  - "vimeo.com"
   - "player.vimeo.com"
+  - "vumbnail.com"
+  - "youtube.com"
   - "www.youtube.com"
+  - "img.youtube.com"
+  - "youtu.be"
   - "www.helloasso.com"
 social:
   email: >-
