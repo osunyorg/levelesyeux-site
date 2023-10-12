@@ -42,7 +42,7 @@ items:
     kind: page
     children: []
   - title: Entreprises
-    target: "/entreprises/"
+    target: "/interventions/entreprises/"
     kind: page
     children: []
   - title: Conférences
