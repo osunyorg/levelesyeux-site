@@ -30,7 +30,7 @@ items:
   kind: blank
   children:
   - title: Agenda
-    target: "/agenda/"
+    target: "/interventions/agenda/"
     kind: page
     children: []
   - title: Jeunesse
