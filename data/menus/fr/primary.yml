@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
   - title: Jeunesse
-    target: "/jeunesse/"
+    target: "/interventions/jeunesse/"
     kind: page
     children: []
   - title: Parents
