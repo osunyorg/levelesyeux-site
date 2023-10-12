@@ -46,7 +46,7 @@ items:
     kind: page
     children: []
   - title: Conférences
-    target: "/conferences/"
+    target: "/interventions/conferences/"
     kind: page
     children: []
   - title: Le jeu Planète Déconnexion
