@@ -58,7 +58,7 @@ items:
   kind: page
   children:
   - title: Collectif Attention
-    target: "/collectif-attention/"
+    target: "/plaidoyer/collectif-attention/"
     kind: page
     children: []
   - title: Nos publications
