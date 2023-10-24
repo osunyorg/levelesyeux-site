@@ -94,8 +94,8 @@ items:
     kind: page
     children: []
   - title: Faire un don
-    target: https://www.helloasso.com/associations/leve-les-yeux/formulaires/3/widget
-    kind: url
+    target: "/faire-un-don/"
+    kind: page
     children: []
 - title: Newsletter
   target: "/newsletter/"
