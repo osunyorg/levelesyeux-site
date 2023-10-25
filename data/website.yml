@@ -12,9 +12,9 @@ external_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "www.helloasso.com"
   - "9tqt.mjt.lu"
   - "app.mailjet.com"
-  - "www.helloasso.com"
 social:
   email: >-
     contact@levelesyeux.com
