@@ -113,7 +113,7 @@ items:
     target: "/faire-un-don/"
     kind: page
     children: []
-  - title: Newsletter
+  - title: Recevoir la newsletter
     target: "/newsletter/"
     kind: page
     children: []
