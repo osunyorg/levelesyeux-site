@@ -85,13 +85,17 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
-    - title: Notes de lecture
-      target: "/notes-de-lecture/"
-      kind: page
-      children: []
     - title: 'Le livre : La Guerre de l''attention'
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
+      children: []
+    - title: Nos publications
+      target: "/plaidoyer/points-de-vue/"
+      kind: page
+      children: []
+    - title: Notes de lecture
+      target: "/notes-de-lecture/"
+      kind: page
       children: []
   - title: Le plaidoyer
     target: ''
@@ -99,10 +103,6 @@ items:
     children:
     - title: Collectif Attention
       target: "/plaidoyer/collectif-attention/"
-      kind: page
-      children: []
-    - title: Nos publications
-      target: "/plaidoyer/points-de-vue/"
       kind: page
       children: []
     - title: Revue de presse
