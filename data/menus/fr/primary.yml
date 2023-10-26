@@ -21,7 +21,7 @@ items:
       target: "/on-parle-de-nous/"
       kind: page
       children: []
-    - title: Contact
+    - title: Nous contacter
       target: "/contact/"
       kind: page
       children: []
