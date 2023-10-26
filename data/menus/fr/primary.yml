@@ -46,7 +46,7 @@ items:
     kind: blank
     children:
     - title: Faire un don
-      target: "/faire-un-don/"
+      target: "/lassociation/faire-un-don/"
       kind: page
       children: []
     - title: Recevoir la newsletter
