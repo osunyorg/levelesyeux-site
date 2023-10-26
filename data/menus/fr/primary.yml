@@ -113,7 +113,7 @@ items:
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
       children: []
-- title: Agenda
+- title: L'agenda
   target: "/interventions/agenda/"
   kind: page
   children: []
