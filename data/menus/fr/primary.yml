@@ -81,6 +81,10 @@ items:
       target: "/les-actions/les-ateliers/le-defi-deconnexion/"
       kind: page
       children: []
+    - title: Conférences
+      target: "/les-actions/interventions/conferences/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
@@ -91,10 +95,6 @@ items:
       children: []
     - title: Parents
       target: "/les-actions/interventions/parents/"
-      kind: page
-      children: []
-    - title: Conférences
-      target: "/les-actions/interventions/conferences/"
       kind: page
       children: []
     - title: Entreprises
