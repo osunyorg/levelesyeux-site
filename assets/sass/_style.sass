@@ -7,16 +7,27 @@
 header#document-header
     .menu 
         .nav-level-2
-            > li 
-                > a, 
-                span
-                    padding-left: 0
-                    padding-bottom: 0
             span
+                padding-left: 0
+                padding-bottom: 0
+                margin-bottom: 0
                 color: $color-text-alt !important
                 font-family: $body-font-family
                 font-style: italic
                 font-size: px2rem(16)
+                &::after
+                    content: ""
+                    display: block
+                    margin-top: $spacing0
+                    background: $color-accent
+                    height: 1px
+                    width: 50px
+
+@include media-breakpoint-up(desktop)
+    .menu 
+        .has-children:not(.header-i18n) 
+            .nav-level-2
+                grid-template-columns: repeat(3, 1fr)
 
 .blocks
     .block-video
