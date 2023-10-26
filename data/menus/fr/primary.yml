@@ -81,10 +81,6 @@ items:
       target: "/newsletter/"
       kind: page
       children: []
-- title: Agenda
-  target: "/interventions/agenda/"
-  kind: page
-  children: []
 - title: Interventions
   target: ''
   kind: blank
@@ -117,6 +113,10 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
+- title: Agenda
+  target: "/interventions/agenda/"
+  kind: page
+  children: []
 - title: Adhérer
   target: "/adherer/"
   kind: page
