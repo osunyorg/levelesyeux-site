@@ -101,10 +101,6 @@ items:
       target: "/revue-de-presse/"
       kind: page
       children: []
-  - title: 'Notre livre : La Guerre de l''attention'
-    target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
-    kind: post
-    children: []
   - title: La pédagogie
     target: ''
     kind: blank
@@ -113,6 +109,10 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
+  - title: 'Notre livre : La Guerre de l''attention'
+    target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
+    kind: post
+    children: []
 - title: Agenda
   target: "/interventions/agenda/"
   kind: page
