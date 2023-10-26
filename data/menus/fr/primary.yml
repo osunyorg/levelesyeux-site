@@ -69,6 +69,10 @@ items:
       target: "/les-actions/les-ateliers/latelier-petite-enfance/"
       kind: page
       children: []
+    - title: L'atelier "contenus choquants"
+      target: "/les-actions/les-ateliers/latelier-contenus-choquants/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
