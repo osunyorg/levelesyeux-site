@@ -110,7 +110,7 @@ items:
       kind: page
       children: []
 - title: L'agenda
-  target: "/interventions/agenda/"
+  target: "/agenda/"
   kind: page
   children: []
 - title: Adhérer
