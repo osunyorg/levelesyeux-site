@@ -77,7 +77,7 @@ items:
       target: "/interventions/entreprises/"
       kind: page
       children: []
-  - title: La pédagogie
+  - title: Les ressources
     target: ''
     kind: blank
     children:
@@ -85,7 +85,7 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
-    - title: 'Notre livre : La Guerre de l''attention'
+    - title: 'Le livre : La Guerre de l''attention'
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
       children: []
