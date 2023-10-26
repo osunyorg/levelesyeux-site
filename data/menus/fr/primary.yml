@@ -69,14 +69,14 @@ items:
       target: "/interventions/parents/"
       kind: page
       children: []
+    - title: Conférences
+      target: "/interventions/conferences/"
+      kind: page
+      children: []
     - title: Entreprises
       target: "/interventions/entreprises/"
       kind: page
       children: []
-  - title: Conférences
-    target: "/interventions/conferences/"
-    kind: page
-    children: []
   - title: Le plaidoyer
     target: ''
     kind: blank
