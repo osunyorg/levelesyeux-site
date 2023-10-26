@@ -5,7 +5,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: L'association
+  - title: Présentation
     target: "/lassociation/"
     kind: page
     children: []
