@@ -78,7 +78,7 @@ items:
       kind: page
       children: []
     - title: Le défi déconnexion
-      target: "/le-defi-deconnexion/"
+      target: "/les-actions/les-ateliers/le-defi-deconnexion/"
       kind: page
       children: []
   - title: Les publics
