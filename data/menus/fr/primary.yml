@@ -90,7 +90,7 @@ items:
       kind: post
       children: []
     - title: Les notes de lecture
-      target: "/notes-de-lecture/"
+      target: "/les-actions/notes-de-lecture/"
       kind: page
       children: []
   - title: Le plaidoyer
