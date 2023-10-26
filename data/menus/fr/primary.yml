@@ -57,6 +57,22 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Vous êtes...
+    target: ''
+    kind: blank
+    children:
+    - title: Jeunesse
+      target: "/interventions/jeunesse/"
+      kind: page
+      children: []
+    - title: Parents
+      target: "/interventions/parents/"
+      kind: page
+      children: []
+    - title: Entreprises
+      target: "/interventions/entreprises/"
+      kind: page
+      children: []
   - title: Plaidoyer
     target: ''
     kind: blank
@@ -84,22 +100,6 @@ items:
     - title: 'Notre livre : La Guerre de l''attention'
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
-      children: []
-  - title: Vous êtes...
-    target: ''
-    kind: blank
-    children:
-    - title: Jeunesse
-      target: "/interventions/jeunesse/"
-      kind: page
-      children: []
-    - title: Parents
-      target: "/interventions/parents/"
-      kind: page
-      children: []
-    - title: Entreprises
-      target: "/interventions/entreprises/"
-      kind: page
       children: []
   - title: Les actions
     target: ''
