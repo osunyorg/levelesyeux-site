@@ -81,7 +81,7 @@ items:
       target: "/newsletter/"
       kind: page
       children: []
-- title: Interventions
+- title: Les actions
   target: ''
   kind: blank
   children:
