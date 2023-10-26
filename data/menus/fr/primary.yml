@@ -77,6 +77,10 @@ items:
       target: "/newsletter/"
       kind: page
       children: []
+  - title: Les actions
+    target: ''
+    kind: blank
+    children: []
 - title: Agenda
   target: "/interventions/agenda/"
   kind: page
