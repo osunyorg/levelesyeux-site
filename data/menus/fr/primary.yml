@@ -49,14 +49,14 @@ items:
       target: "/interventions/jeunesse/"
       kind: page
       children: []
-  - title: Parents
-    target: "/interventions/parents/"
-    kind: page
-    children: []
-  - title: Entreprises
-    target: "/interventions/entreprises/"
-    kind: page
-    children: []
+    - title: Parents
+      target: "/interventions/parents/"
+      kind: page
+      children: []
+    - title: Entreprises
+      target: "/interventions/entreprises/"
+      kind: page
+      children: []
   - title: Conférences
     target: "/interventions/conferences/"
     kind: page
