@@ -2,6 +2,7 @@ theme: osuny-hugo-theme-aaa
 paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
+
 params:
   plausible: levelesyeux.com
   logo:
@@ -11,3 +12,9 @@ params:
     position: after-hero
   summary:
     position: hero
+
+redirects:
+- force: true
+  from: /collectif/qui-sommes-nous/
+  status: 301
+  to: /lassociation/
