@@ -4,6 +4,20 @@
 .lead
     font-style: italic
 
+header#document-header
+    .menu 
+        .nav-level-2
+            > li 
+                > a, 
+                span
+                    padding-left: 0
+                    padding-bottom: 0
+            span
+                color: $color-text-alt !important
+                font-family: $body-font-family
+                font-style: italic
+                font-size: px2rem(16)
+
 .blocks
     .block-video
         @include in-page-without-sidebar
