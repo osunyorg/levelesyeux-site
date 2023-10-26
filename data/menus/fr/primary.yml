@@ -102,7 +102,7 @@ items:
       kind: page
       children: []
     - title: Nos publications
-      target: "/plaidoyer/nos-publications/"
+      target: "/plaidoyer/points-de-vue/"
       kind: page
       children: []
     - title: Revue de presse
