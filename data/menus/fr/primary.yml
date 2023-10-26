@@ -8,11 +8,11 @@ items:
   - title: L'essentiel
     target: ''
     kind: blank
-    children: []
-  - title: Présentation
-    target: "/lassociation/"
-    kind: page
-    children: []
+    children:
+    - title: Présentation
+      target: "/lassociation/"
+      kind: page
+      children: []
   - title: 'Pourquoi lever les yeux ? '
     target: "/pourquoi-lever-les-yeux/"
     kind: page
