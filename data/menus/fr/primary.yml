@@ -21,14 +21,6 @@ items:
       target: "/contact/"
       kind: page
       children: []
-    - title: Artistes
-      target: "/lassociation/les-artistes/"
-      kind: page
-      children: []
-    - title: Lieux déconnectés
-      target: "/lassociation/label/"
-      kind: page
-      children: []
   - title: Plaidoyer
     target: "/plaidoyer/"
     kind: page
@@ -61,8 +53,16 @@ items:
     target: ''
     kind: blank
     children:
+    - title: Artistes
+      target: "/lassociation/les-artistes/"
+      kind: page
+      children: []
     - title: Partenaires
       target: "/lassociation/les-associations-amies-et-partenaires/"
+      kind: page
+      children: []
+    - title: Lieux déconnectés
+      target: "/lassociation/label/"
       kind: page
       children: []
 - title: Interventions
