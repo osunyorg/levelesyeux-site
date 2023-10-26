@@ -106,7 +106,7 @@ items:
       kind: page
       children: []
     - title: La revue de presse
-      target: "/revue-de-presse/"
+      target: "/les-actions/plaidoyer/revue-de-presse/"
       kind: page
       children: []
 - title: L'agenda
