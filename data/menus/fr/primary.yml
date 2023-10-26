@@ -101,14 +101,14 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
+- title: Adhérer à l'association
+  target: "/adherer/"
+  kind: page
+  children: []
 - title: Nous soutenir
   target: ''
   kind: blank
   children:
-  - title: Adhérer à l'association
-    target: "/adherer/"
-    kind: page
-    children: []
   - title: Faire un don
     target: "/faire-un-don/"
     kind: page
