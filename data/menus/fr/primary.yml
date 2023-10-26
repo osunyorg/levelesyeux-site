@@ -105,7 +105,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Adhérer
+  - title: Adhérer à l'association
     target: "/adherer/"
     kind: page
     children: []
