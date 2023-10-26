@@ -65,6 +65,10 @@ items:
       target: "/les-actions/les-ateliers/latelier-deconnexion/"
       kind: page
       children: []
+    - title: L'atelier petite enfance
+      target: "/les-actions/les-ateliers/latelier-petite-enfance/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
