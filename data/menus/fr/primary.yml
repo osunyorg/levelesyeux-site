@@ -109,8 +109,8 @@ items:
     target: "/faire-un-don/"
     kind: page
     children: []
-- title: Newsletter
-  target: "/newsletter/"
-  kind: page
-  children: []
+  - title: Newsletter
+    target: "/newsletter/"
+    kind: page
+    children: []
 
