@@ -62,19 +62,19 @@ items:
     kind: blank
     children:
     - title: Jeunesse
-      target: "/interventions/jeunesse/"
+      target: "/les-actions/interventions/jeunesse/"
       kind: page
       children: []
     - title: Parents
-      target: "/interventions/parents/"
+      target: "/les-actions/interventions/parents/"
       kind: page
       children: []
     - title: Conférences
-      target: "/interventions/conferences/"
+      target: "/les-actions/interventions/conferences/"
       kind: page
       children: []
     - title: Entreprises
-      target: "/interventions/entreprises/"
+      target: "/les-actions/interventions/entreprises/"
       kind: page
       children: []
   - title: Les ressources
