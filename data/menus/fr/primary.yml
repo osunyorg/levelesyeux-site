@@ -5,6 +5,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: L'essentiel
+    target: ''
+    kind: blank
+    children: []
   - title: Présentation
     target: "/lassociation/"
     kind: page
@@ -24,10 +28,6 @@ items:
   - title: Label
     target: "/lassociation/label/"
     kind: page
-    children: []
-  - title: L'essentiel
-    target: ''
-    kind: blank
     children: []
 - title: Interventions
   target: ''
