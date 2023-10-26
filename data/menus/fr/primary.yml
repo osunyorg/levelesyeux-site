@@ -97,7 +97,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Collectif Attention
+    - title: Le Collectif Attention
       target: "/plaidoyer/collectif-attention/"
       kind: page
       children: []
