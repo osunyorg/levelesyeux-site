@@ -65,6 +65,18 @@ items:
       target: "/lassociation/label/"
       kind: page
       children: []
+  - title: Nous soutenir
+    target: ''
+    kind: blank
+    children:
+    - title: Faire un don
+      target: "/faire-un-don/"
+      kind: page
+      children: []
+    - title: Recevoir la newsletter
+      target: "/newsletter/"
+      kind: page
+      children: []
 - title: Agenda
   target: "/interventions/agenda/"
   kind: page
@@ -105,16 +117,4 @@ items:
   target: "/adherer/"
   kind: page
   children: []
-- title: Nous soutenir
-  target: ''
-  kind: blank
-  children:
-  - title: Faire un don
-    target: "/faire-un-don/"
-    kind: page
-    children: []
-  - title: Recevoir la newsletter
-    target: "/newsletter/"
-    kind: page
-    children: []
 
