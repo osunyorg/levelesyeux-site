@@ -16,15 +16,7 @@ params:
     active: true
 
 redirects:
-- from: /collectif/qui-sommes-nous/
-  to: /lassociation/
-  status: 301
-  force: false
-- from: /collectif/qui-sommes-nous
-  to: /lassociation/
-  status: 301
-  force: false
-- from: collectif/qui-sommes-nous
-  to: /lassociation/
-  status: 301
-  force: false
+  - from: /collectif/qui-sommes-nous/
+    to: /lassociation/
+    status: 301
+    force: false
