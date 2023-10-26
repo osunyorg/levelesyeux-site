@@ -73,6 +73,10 @@ items:
       target: "/interventions/entreprises/"
       kind: page
       children: []
+  - title: Conférences
+    target: "/interventions/conferences/"
+    kind: page
+    children: []
   - title: Le plaidoyer
     target: ''
     kind: blank
@@ -105,10 +109,6 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Conférences
-      target: "/interventions/conferences/"
-      kind: page
-      children: []
     - title: Le jeu Planète Déconnexion
       target: "/le-jeu-planete-deconnexion/"
       kind: page
