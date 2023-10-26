@@ -61,6 +61,10 @@ items:
     target: "/on-parle-de-nous/"
     kind: page
     children: []
+  - title: Le réseau
+    target: ''
+    kind: blank
+    children: []
 - title: Interventions
   target: ''
   kind: blank
