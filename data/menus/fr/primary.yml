@@ -21,6 +21,10 @@ items:
       target: "/lassociation/les-associations-amies-et-partenaires/"
       kind: page
       children: []
+  - title: On parle de nous
+    target: "/on-parle-de-nous/"
+    kind: page
+    children: []
   - title: Artistes
     target: "/lassociation/les-artistes/"
     kind: page
@@ -81,10 +85,6 @@ items:
     target: "/revue-de-presse/"
     kind: page
     children: []
-- title: On parle de nous
-  target: "/on-parle-de-nous/"
-  kind: page
-  children: []
 - title: Nous soutenir
   target: ''
   kind: blank
