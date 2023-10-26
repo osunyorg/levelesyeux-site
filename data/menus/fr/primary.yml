@@ -25,34 +25,6 @@ items:
       target: "/contact/"
       kind: page
       children: []
-  - title: Les actions
-    target: ''
-    kind: blank
-    children:
-    - title: Plaidoyer
-      target: "/plaidoyer/"
-      kind: page
-      children: []
-    - title: Collectif Attention
-      target: "/plaidoyer/collectif-attention/"
-      kind: page
-      children: []
-    - title: Nos publications
-      target: "/plaidoyer/nos-publications/"
-      kind: page
-      children: []
-    - title: Notes de lecture
-      target: "/notes-de-lecture/"
-      kind: page
-      children: []
-    - title: Revue de presse
-      target: "/revue-de-presse/"
-      kind: page
-      children: []
-    - title: 'Notre livre : La Guerre de l''attention'
-      target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
-      kind: post
-      children: []
   - title: Le réseau
     target: ''
     kind: blank
@@ -85,6 +57,34 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Les actions
+    target: ''
+    kind: blank
+    children:
+    - title: Plaidoyer
+      target: "/plaidoyer/"
+      kind: page
+      children: []
+    - title: Collectif Attention
+      target: "/plaidoyer/collectif-attention/"
+      kind: page
+      children: []
+    - title: Nos publications
+      target: "/plaidoyer/nos-publications/"
+      kind: page
+      children: []
+    - title: Notes de lecture
+      target: "/notes-de-lecture/"
+      kind: page
+      children: []
+    - title: Revue de presse
+      target: "/revue-de-presse/"
+      kind: page
+      children: []
+    - title: 'Notre livre : La Guerre de l''attention'
+      target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
+      kind: post
+      children: []
   - title: Vous êtes...
     target: ''
     kind: blank
