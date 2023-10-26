@@ -77,6 +77,10 @@ items:
       target: "/les-actions/les-ateliers/latelier-deducation-aux-medias/"
       kind: page
       children: []
+    - title: Le défi déconnexion
+      target: "/le-defi-deconnexion/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
