@@ -41,10 +41,14 @@ items:
     target: "/interventions/agenda/"
     kind: page
     children: []
-  - title: Jeunesse
-    target: "/interventions/jeunesse/"
-    kind: page
-    children: []
+  - title: Vous êtes...
+    target: ''
+    kind: blank
+    children:
+    - title: Jeunesse
+      target: "/interventions/jeunesse/"
+      kind: page
+      children: []
   - title: Parents
     target: "/interventions/parents/"
     kind: page
