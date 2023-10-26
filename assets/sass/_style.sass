@@ -5,6 +5,14 @@
     font-style: italic
 
 header#document-header
+    .logo
+        img
+            transition: height 0.25s ease
+    @include media-breakpoint-up(desktop)
+        &.is-sticky
+            .logo
+                img
+                    height: 60px
     .menu 
         .nav-level-2
             span
