@@ -93,7 +93,7 @@ items:
       target: "/plaidoyer/points-de-vue/"
       kind: page
       children: []
-    - title: Notes de lecture
+    - title: Les notes de lecture
       target: "/notes-de-lecture/"
       kind: page
       children: []
