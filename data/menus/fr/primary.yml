@@ -89,7 +89,7 @@ items:
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
       children: []
-    - title: Nos publications
+    - title: Les points de vue
       target: "/plaidoyer/points-de-vue/"
       kind: page
       children: []
