@@ -98,11 +98,11 @@ items:
     kind: blank
     children:
     - title: Le Collectif Attention
-      target: "/plaidoyer/collectif-attention/"
+      target: "/les-actions/plaidoyer/collectif-attention/"
       kind: page
       children: []
     - title: Les points de vue
-      target: "/plaidoyer/points-de-vue/"
+      target: "/les-actions/plaidoyer/points-de-vue/"
       kind: page
       children: []
     - title: La revue de presse
