@@ -33,14 +33,6 @@ items:
       target: "/plaidoyer/"
       kind: page
       children:
-      - title: Notes de lecture
-        target: "/notes-de-lecture/"
-        kind: page
-        children: []
-      - title: Revue de presse
-        target: "/revue-de-presse/"
-        kind: page
-        children: []
       - title: 'Notre livre : La Guerre de l''attention'
         target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
         kind: post
@@ -51,6 +43,14 @@ items:
       children: []
     - title: Nos publications
       target: "/plaidoyer/nos-publications/"
+      kind: page
+      children: []
+    - title: Notes de lecture
+      target: "/notes-de-lecture/"
+      kind: page
+      children: []
+    - title: Revue de presse
+      target: "/revue-de-presse/"
       kind: page
       children: []
   - title: Le réseau
