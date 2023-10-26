@@ -21,10 +21,6 @@ items:
       target: "/contact/"
       kind: page
       children: []
-    - title: Partenaires
-      target: "/lassociation/les-associations-amies-et-partenaires/"
-      kind: page
-      children: []
     - title: Artistes
       target: "/lassociation/les-artistes/"
       kind: page
@@ -64,7 +60,11 @@ items:
   - title: Le réseau
     target: ''
     kind: blank
-    children: []
+    children:
+    - title: Partenaires
+      target: "/lassociation/les-associations-amies-et-partenaires/"
+      kind: page
+      children: []
 - title: Interventions
   target: ''
   kind: blank
