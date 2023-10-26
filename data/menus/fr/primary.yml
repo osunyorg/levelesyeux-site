@@ -21,16 +21,16 @@ items:
       target: "/lassociation/les-associations-amies-et-partenaires/"
       kind: page
       children: []
+    - title: Artistes
+      target: "/lassociation/les-artistes/"
+      kind: page
+      children: []
+    - title: Label
+      target: "/lassociation/label/"
+      kind: page
+      children: []
   - title: On parle de nous
     target: "/on-parle-de-nous/"
-    kind: page
-    children: []
-  - title: Artistes
-    target: "/lassociation/les-artistes/"
-    kind: page
-    children: []
-  - title: Label
-    target: "/lassociation/label/"
     kind: page
     children: []
 - title: Interventions
