@@ -17,6 +17,10 @@ items:
       target: "/pourquoi-lever-les-yeux/"
       kind: page
       children: []
+    - title: On parle de nous
+      target: "/on-parle-de-nous/"
+      kind: page
+      children: []
     - title: Contact
       target: "/contact/"
       kind: page
@@ -45,10 +49,6 @@ items:
       target: "/revue-de-presse/"
       kind: page
       children: []
-  - title: On parle de nous
-    target: "/on-parle-de-nous/"
-    kind: page
-    children: []
   - title: Le réseau
     target: ''
     kind: blank
