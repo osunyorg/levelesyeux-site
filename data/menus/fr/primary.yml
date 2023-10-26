@@ -73,7 +73,7 @@ items:
       target: "/interventions/entreprises/"
       kind: page
       children: []
-  - title: Plaidoyer
+  - title: Le plaidoyer
     target: ''
     kind: blank
     children:
