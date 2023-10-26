@@ -13,14 +13,14 @@ items:
       target: "/lassociation/"
       kind: page
       children: []
-  - title: 'Pourquoi lever les yeux ? '
-    target: "/pourquoi-lever-les-yeux/"
-    kind: page
-    children: []
-  - title: Partenaires
-    target: "/lassociation/les-associations-amies-et-partenaires/"
-    kind: page
-    children: []
+    - title: 'Pourquoi lever les yeux ? '
+      target: "/pourquoi-lever-les-yeux/"
+      kind: page
+      children: []
+    - title: Partenaires
+      target: "/lassociation/les-associations-amies-et-partenaires/"
+      kind: page
+      children: []
   - title: Artistes
     target: "/lassociation/les-artistes/"
     kind: page
