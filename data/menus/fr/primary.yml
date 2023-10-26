@@ -57,6 +57,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Les ateliers
+    target: ''
+    kind: blank
+    children: []
   - title: Les publics
     target: ''
     kind: blank
