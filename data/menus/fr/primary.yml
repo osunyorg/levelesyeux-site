@@ -73,6 +73,10 @@ items:
       target: "/les-actions/les-ateliers/latelier-contenus-choquants/"
       kind: page
       children: []
+    - title: L'atelier d'éducation aux médias
+      target: "/les-actions/les-ateliers/latelier-deducation-aux-medias/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
