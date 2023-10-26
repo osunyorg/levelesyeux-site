@@ -29,6 +29,30 @@ items:
       target: "/lassociation/label/"
       kind: page
       children: []
+  - title: Plaidoyer
+    target: "/plaidoyer/"
+    kind: page
+    children:
+    - title: Collectif Attention
+      target: "/plaidoyer/collectif-attention/"
+      kind: page
+      children: []
+    - title: Nos publications
+      target: "/plaidoyer/nos-publications/"
+      kind: page
+      children: []
+    - title: Notes de lecture
+      target: "/notes-de-lecture/"
+      kind: page
+      children: []
+    - title: 'Notre livre : La Guerre de l''attention'
+      target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
+      kind: post
+      children: []
+    - title: Revue de presse
+      target: "/revue-de-presse/"
+      kind: page
+      children: []
   - title: On parle de nous
     target: "/on-parle-de-nous/"
     kind: page
@@ -69,30 +93,6 @@ items:
       target: "/le-jeu-planete-deconnexion/"
       kind: page
       children: []
-- title: Plaidoyer
-  target: "/plaidoyer/"
-  kind: page
-  children:
-  - title: Collectif Attention
-    target: "/plaidoyer/collectif-attention/"
-    kind: page
-    children: []
-  - title: Nos publications
-    target: "/plaidoyer/nos-publications/"
-    kind: page
-    children: []
-  - title: Notes de lecture
-    target: "/notes-de-lecture/"
-    kind: page
-    children: []
-  - title: 'Notre livre : La Guerre de l''attention'
-    target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
-    kind: post
-    children: []
-  - title: Revue de presse
-    target: "/revue-de-presse/"
-    kind: page
-    children: []
 - title: Nous soutenir
   target: ''
   kind: blank
