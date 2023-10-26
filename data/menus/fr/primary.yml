@@ -57,14 +57,18 @@ items:
       target: "/interventions/entreprises/"
       kind: page
       children: []
-  - title: Conférences
-    target: "/interventions/conferences/"
-    kind: page
-    children: []
-  - title: Le jeu Planète Déconnexion
-    target: "/le-jeu-planete-deconnexion/"
-    kind: page
-    children: []
+  - title: Les actions
+    target: ''
+    kind: blank
+    children:
+    - title: Conférences
+      target: "/interventions/conferences/"
+      kind: page
+      children: []
+    - title: Le jeu Planète Déconnexion
+      target: "/le-jeu-planete-deconnexion/"
+      kind: page
+      children: []
 - title: Plaidoyer
   target: "/plaidoyer/"
   kind: page
