@@ -61,6 +61,14 @@ items:
     target: ''
     kind: blank
     children:
+    - title: L'atelier déconnexion (7 à 18 ans)
+      target: "/les-actions/les-ateliers/latelier-deconnexion/"
+      kind: page
+      children: []
+  - title: Les publics
+    target: ''
+    kind: blank
+    children:
     - title: Jeunesse
       target: "/les-actions/interventions/jeunesse/"
       kind: page
