@@ -37,6 +37,11 @@ header#document-header
 //             .nav-level-2
 //                 grid-template-columns: repeat(3, 1fr)
 
+.toc-container
+    @include in-page-with-sidebar
+        .toc-title
+            display: none
+
 .blocks
     .block-video
         @include in-page-without-sidebar
@@ -56,4 +61,22 @@ header#document-header
 
 .post-infos
     .social-share
-        display: none
+        display: none !important
+
+main
+    @include in-page-with-sidebar
+        .toc-container,
+        .post-infos
+            padding-right: $spacing2
+            border-top: none !important
+        .post-infos
+            > li
+                border-top: none
+                display: block
+                > span
+                    display: block
+                ul
+                    text-align: left
+                    li
+                        margin-left: 0
+                        margin-right: $spacing0
