@@ -1,21 +1,5 @@
 title: >
   Lève les yeux
-external_domains:
-  - "osuny-1b4da.kxcdn.com"
-  - "*.osuny.org"
-  - "osuny.s3.fr-par.scw.cloud"
-  - "tile.openstreetmap.org"
-  - "plausible.io"
-  - "vimeo.com"
-  - "player.vimeo.com"
-  - "vumbnail.com"
-  - "youtube.com"
-  - "www.youtube.com"
-  - "img.youtube.com"
-  - "youtu.be"
-  - "www.helloasso.com"
-  - "9tqt.mjt.lu"
-  - "app.mailjet.com"
 social:
   email: >-
     contact@levelesyeux.com
