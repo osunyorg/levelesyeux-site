@@ -49,10 +49,6 @@ items:
       target: "/lassociation/faire-un-don/"
       kind: page
       children: []
-    - title: Recevoir la newsletter
-      target: "/lassociation/newsletter/"
-      kind: page
-      children: []
 - title: Les actions
   target: ''
   kind: blank
@@ -139,6 +135,10 @@ items:
   children: []
 - title: Adhérer
   target: "/lassociation/adherer/"
+  kind: page
+  children: []
+- title: Recevoir la newsletter
+  target: "/lassociation/newsletter/"
   kind: page
   children: []
 
