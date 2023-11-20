@@ -137,7 +137,7 @@ items:
   target: "/lassociation/adherer/"
   kind: page
   children: []
-- title: Recevoir la newsletter
+- title: La lettre d'info
   target: "/lassociation/newsletter/"
   kind: page
   children: []
