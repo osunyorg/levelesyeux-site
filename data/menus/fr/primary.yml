@@ -45,14 +45,14 @@ items:
     target: ''
     kind: blank
     children:
+    - title: Adhérer
+      target: "/lassociation/adherer/"
+      kind: page
+      children: []
     - title: Faire un don
       target: "/lassociation/faire-un-don/"
       kind: page
       children: []
-- title: Adhérer
-  target: "/lassociation/adherer/"
-  kind: page
-  children: []
 - title: Les actions
   target: ''
   kind: blank
