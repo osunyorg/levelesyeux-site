@@ -31,25 +31,10 @@ header#document-header
                     height: 1px
                     width: 50px
 
-// @include media-breakpoint-up(desktop)
-//     .menu 
-//         .has-children:not(.header-i18n) 
-//             .nav-level-2
-//                 grid-template-columns: repeat(3, 1fr)
-
 .toc-container
     @include in-page-with-sidebar
         .toc-title
             display: none
-
-.blocks
-    .block-video
-        @include in-page-without-sidebar
-            background-color: $color-light
-            padding-bottom: $spacing3
-            padding-top: $spacing3
-            .video
-                width: col(8)
 
 .block-agenda
     .events--large
