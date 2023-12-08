@@ -9,7 +9,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Présentation
+    - title: Qui sommes-nous ?
       target: "/lassociation/"
       kind: page
       children: []
