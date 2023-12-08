@@ -57,7 +57,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Les ateliers
+  - title: Les interventions
     target: ''
     kind: blank
     children:
