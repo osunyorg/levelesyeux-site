@@ -13,3 +13,5 @@ params:
     position: hero
   search:
     active: true
+  debug:
+     productionUrl: "https://www.levelesyeux.com"
