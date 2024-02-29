@@ -1,6 +1,6 @@
 .page__home
     .hero
-        margin-bottom: $spacing2
+        margin-bottom: $spacing-4
 .lead
     font-style: italic
 
@@ -22,11 +22,11 @@ header#document-header
                 color: $color-text-alt !important
                 font-family: $body-font-family
                 font-style: italic
-                font-size: px2rem(16)
+                font-size: pxToRem(16)
                 &::after
                     content: ""
                     display: block
-                    margin-top: $spacing0
+                    margin-top: $spacing-2
                     background: $color-accent
                     height: 1px
                     width: 50px
@@ -43,7 +43,7 @@ header#document-header
                 img
                     aspect-ratio: auto
                 @include in-page-without-sidebar
-                    width: col(4)
+                    width: columns(4)
                     margin-right: offset(2)
 
 .post-infos
@@ -57,7 +57,7 @@ main
     @include in-page-with-sidebar
         .toc-container,
         .post-infos
-            padding-right: $spacing2
+            padding-right: $spacing-4
             border-top: none !important
         .post-infos
             > li
@@ -69,4 +69,4 @@ main
                     text-align: left
                     li
                         margin-left: 0
-                        margin-right: $spacing0
+                        margin-right: $spacing-2
