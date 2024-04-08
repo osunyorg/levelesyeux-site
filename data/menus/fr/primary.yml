@@ -45,10 +45,6 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Adhérer
-      target: "/lassociation/adherer/"
-      kind: page
-      children: []
     - title: Faire un don
       target: "/lassociation/faire-un-don/"
       kind: page
@@ -135,6 +131,10 @@ items:
       children: []
 - title: L'agenda
   target: "/agenda/"
+  kind: page
+  children: []
+- title: Adhérer
+  target: "/lassociation/adherer/"
   kind: page
   children: []
 - title: La lettre d'info
