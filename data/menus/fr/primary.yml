@@ -138,7 +138,7 @@ items:
   kind: page
   children: []
 - title: Adhérer
-  target: "/lassociation/adherer/"
+  target: "/adherer/"
   kind: page
   children: []
 
