@@ -141,8 +141,4 @@ items:
   target: "/lassociation/newsletter/"
   kind: page
   children: []
-- title: Adhérer
-  target: "/lassociation/adherer/"
-  kind: page
-  children: []
 
