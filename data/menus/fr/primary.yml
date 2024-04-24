@@ -61,10 +61,6 @@ items:
       target: "/les-actions/interventions/conferences/"
       kind: page
       children: []
-    - title: L'atelier petite enfance
-      target: "/les-actions/interventions/les-ateliers/latelier-petite-enfance/"
-      kind: page
-      children: []
     - title: L'atelier "contenus choquants"
       target: "/les-actions/interventions/les-ateliers/latelier-contenus-choquants/"
       kind: page
