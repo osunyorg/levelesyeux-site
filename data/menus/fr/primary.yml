@@ -61,7 +61,7 @@ items:
       target: "/les-actions/interventions/les-ateliers/"
       kind: page
       children: []
-    - title: Conférences
+    - title: Les conférences
       target: "/les-actions/interventions/conferences/"
       kind: page
       children: []
