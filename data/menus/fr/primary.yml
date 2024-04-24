@@ -81,6 +81,10 @@ items:
       target: "/les-actions/interventions/les-ateliers/le-defi-deconnexion/"
       kind: page
       children: []
+    - title: Les ateliers
+      target: "/les-actions/interventions/les-ateliers/"
+      kind: page
+      children: []
   - title: Les publics
     target: ''
     kind: blank
