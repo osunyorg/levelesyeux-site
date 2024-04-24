@@ -61,14 +61,6 @@ items:
       target: "/les-actions/interventions/conferences/"
       kind: page
       children: []
-    - title: L'atelier "contenus choquants"
-      target: "/les-actions/interventions/les-ateliers/latelier-contenus-choquants/"
-      kind: page
-      children: []
-    - title: L'atelier d'éducation aux médias
-      target: "/les-actions/interventions/les-ateliers/latelier-deducation-aux-medias/"
-      kind: page
-      children: []
     - title: Le défi déconnexion
       target: "/les-actions/interventions/les-ateliers/le-defi-deconnexion/"
       kind: page
