@@ -69,7 +69,7 @@ items:
       target: "/les-actions/interventions/les-ateliers/le-defi-deconnexion/"
       kind: page
       children: []
-    - title: Le projet "Plus de livres, moins d'écrans"
+    - title: '"Plus de livres, moins d''écrans"'
       target: "/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/"
       kind: page
       children: []
