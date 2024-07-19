@@ -94,7 +94,7 @@ items:
     kind: blank
     children:
     - title: Le jeu Planète Déconnexion
-      target: "/les-actions/le-jeu-planete-deconnexion/"
+      target: "/les-actions/deconnexio/"
       kind: page
       children: []
     - title: 'Le livre : La Guerre de l''attention'
