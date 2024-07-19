@@ -93,7 +93,7 @@ items:
     target: ''
     kind: blank
     children:
-    - title: Le jeu Planète Déconnexion
+    - title: 'Deconnexio : le nouveau Planète Déconnexion'
       target: "/les-actions/deconnexio/"
       kind: page
       children: []
