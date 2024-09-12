@@ -41,9 +41,9 @@ items:
       target: "/lassociation/label/"
       kind: page
       children: []
-  - title: Nous soutenir
-    target: ''
-    kind: blank
+  - title: Nous rejoindre
+    target: "/lassociation/"
+    kind: page
     children:
     - title: Adhérer
       target: "/adherer/"
