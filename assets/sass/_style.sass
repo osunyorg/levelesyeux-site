@@ -60,6 +60,11 @@ header#document-header
     .media
         img
             mix-blend-mode: multiply
+.events--list 
+    .event-title,
+    .event-subtitle
+        @include media-breakpoint-up(desktop)
+            font-size: pxToRem(26)
 main
     @include in-page-with-sidebar
         .toc-container,
