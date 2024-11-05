@@ -25,7 +25,7 @@ jobs:
       run: yarn install
 
     - name: Installation de Hugo
-      uses: peaceiris/actions-hugo@v3.0.1
+      uses: peaceiris/actions-hugo@v3.0.0
       with:
         hugo-version: '0.136.5'
         extended: true
