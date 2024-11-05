@@ -129,7 +129,7 @@ items:
   target: "/lassociation/newsletter/"
   kind: page
   children: []
-- title: Don
+- title: Faire un don
   target: "/lassociation/faire-un-don/"
   kind: page
   children: []

@@ -1,15 +1,22 @@
 ---
-title: >-
-  Test
 breadcrumb_title: >-
+  Test
+title: >-
   Test
 url: "/test/"
 slug: "test"
-hugo:
-  permalink: "/test/"
-  file: "content/fr/pages/test/_index.html"
-  path: "test"
-  slug: "test"
+date: 2023-10-12T14:48:37+02:00
+lastmod: 2024-09-29T11:19:12+02:00
+meta:
+  hugo:
+    permalink: "/test/"
+    file: "content/fr/pages/test/_index.html"
+    path: "test"
+    slug: "test"
+  dates:
+    created_at: 2023-10-03T11:20:48+02:00
+    updated_at: 2024-09-29T11:19:12+02:00
+    published_at: 2023-10-12T14:48:37+02:00
 
 breadcrumbs:
   - title: >-
@@ -52,18 +59,26 @@ contents_reading_time:
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Bloc texte simple
-    slug: "bloc-texte-simple"
-    position: 1
-    rank: 2
+    slug: >-
+      bloc-texte-simple
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      self: 2
     data:
       layout: no_background
       text: >-
@@ -81,19 +96,26 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Bloc mise en avant légère
-    slug: "bloc-mise-en-avant-legere"
-    position: 2
-    rank: 2
+    slug: >-
+      bloc-mise-en-avant-legere
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      self: 2
     data:
       layout: alt_background
       text: >-
@@ -111,19 +133,26 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Bloc mise en avant forte
-    slug: "bloc-mise-en-avant-forte"
-    position: 3
-    rank: 2
+    slug: >-
+      bloc-mise-en-avant-forte
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      self: 2
     data:
       layout: accent_background
       text: >-
@@ -138,7 +167,6 @@ contents:
 
       credit: >-
         
-
 
 
 
