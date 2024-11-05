@@ -25,16 +25,17 @@ jobs:
       run: yarn install
 
     - name: Installation de Hugo
-      uses: peaceiris/actions-hugo@v2.6.0
+      uses: noesya/actions-hugo@v3.0.1
       with:
         hugo-version: 'latest'
         extended: true
+        withdeploy: true
 
     - name: Compilation du site
       run: yarn osuny build
 
     - name: Déploiement Garage
-      run: hugo deploy --maxDeletes -1
+      run: hugo deploy --force --maxDeletes -1
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.DEUXFLEURS_ACCESS_KEY }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.DEUXFLEURS_SECRET }}
