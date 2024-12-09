@@ -7,9 +7,14 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        contact@levelesyeux.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            contact@levelesyeux.com
+          value: >-
+            mailto:contact@levelesyeux.com
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
