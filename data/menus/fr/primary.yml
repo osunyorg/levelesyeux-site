@@ -4,64 +4,76 @@ items:
 - title: L'association
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: L'essentiel
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: Qui sommes-nous ?
       target: "/lassociation/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation"
       file: content/fr/pages/lassociation/_index.html
     - title: 'Pourquoi lever les yeux ? '
       target: "/lassociation/pourquoi-lever-les-yeux/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/pourquoi-lever-les-yeux"
       file: content/fr/pages/lassociation/pourquoi-lever-les-yeux/_index.html
     - title: On parle de nous
       target: "/lassociation/on-parle-de-nous/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/on-parle-de-nous"
       file: content/fr/pages/lassociation/on-parle-de-nous/_index.html
     - title: Nous contacter
       target: "/lassociation/contact/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/contact"
       file: content/fr/pages/lassociation/contact/_index.html
   - title: Le réseau
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: Artistes
       target: "/lassociation/les-artistes/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/les-artistes"
       file: content/fr/pages/lassociation/les-artistes/_index.html
     - title: Partenaires
       target: "/lassociation/les-associations-amies-et-partenaires/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/les-associations-amies-et-partenaires"
       file: content/fr/pages/lassociation/les-associations-amies-et-partenaires/_index.html
     - title: Lieux déconnectés
       target: "/lassociation/label/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/label"
       file: content/fr/pages/lassociation/label/_index.html
   - title: Nous rejoindre
     target: "/lassociation/"
     kind: page
+    new_tab: false
     children:
     - title: Adhérer
       target: "/adherer/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/adherer"
       file: content/fr/pages/adherer/_index.html
@@ -70,116 +82,137 @@ items:
 - title: Les actions
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Les interventions
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: Les ateliers
       target: "/les-actions/interventions/les-ateliers/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/les-ateliers"
       file: content/fr/pages/les-actions/interventions/les-ateliers/_index.html
     - title: Les conférences
       target: "/les-actions/interventions/conferences/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/conferences"
       file: content/fr/pages/les-actions/interventions/conferences/_index.html
     - title: Le défi déconnexion
       target: "/les-actions/interventions/les-ateliers/le-defi-deconnexion/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion"
       file: content/fr/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion/_index.html
     - title: '"Plus de livres, moins d''écrans"'
       target: "/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/le-projet-plus-de-livres-moins-decrans"
       file: content/fr/pages/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/_index.html
   - title: Les publics
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: Jeunesse
       target: "/les-actions/interventions/jeunesse/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/jeunesse"
       file: content/fr/pages/les-actions/interventions/jeunesse/_index.html
     - title: Parents
       target: "/les-actions/interventions/parents/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/parents"
       file: content/fr/pages/les-actions/interventions/parents/_index.html
     - title: Entreprises
       target: "/les-actions/interventions/entreprises/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/interventions/entreprises"
       file: content/fr/pages/les-actions/interventions/entreprises/_index.html
   - title: Les ressources
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: 'Deconnexio : le nouveau Planète Déconnexion'
       target: "/les-actions/deconnexio/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/deconnexio"
       file: content/fr/pages/les-actions/deconnexio/_index.html
     - title: 'Le livre : La Guerre de l''attention'
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
+      new_tab: false
       children: []
       path: "/posts/2022/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux"
       file: content/fr/posts/2022/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux.html
     - title: Les notes de lecture
       target: "/les-actions/notes-de-lecture/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/notes-de-lecture"
       file: content/fr/pages/les-actions/notes-de-lecture/_index.html
   - title: Le plaidoyer
     target: ''
     kind: blank
+    new_tab: false
     children:
     - title: Le Collectif Attention
       target: "/les-actions/plaidoyer/collectif-attention/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/plaidoyer/collectif-attention"
       file: content/fr/pages/les-actions/plaidoyer/collectif-attention/_index.html
     - title: Les points de vue
       target: "/les-actions/plaidoyer/points-de-vue/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/plaidoyer/points-de-vue"
       file: content/fr/pages/les-actions/plaidoyer/points-de-vue/_index.html
     - title: La revue de presse
       target: "/les-actions/plaidoyer/revue-de-presse/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-actions/plaidoyer/revue-de-presse"
       file: content/fr/pages/les-actions/plaidoyer/revue-de-presse/_index.html
 - title: L'agenda
   target: "/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: La lettre d'info
   target: "/lassociation/newsletter/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/lassociation/newsletter"
   file: content/fr/pages/lassociation/newsletter/_index.html
 - title: Faire un don
   target: "/lassociation/faire-un-don/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/lassociation/faire-un-don"
   file: content/fr/pages/lassociation/faire-un-don/_index.html
