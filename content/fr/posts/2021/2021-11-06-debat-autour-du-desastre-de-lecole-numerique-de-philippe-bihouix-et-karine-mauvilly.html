@@ -37,17 +37,21 @@ design:
 posts_categories:
   - "debats"
   - "evenements"
-free_categories:
-  - permalink: "/actualites/debats/"
-    path: "/posts_categories/debats"
-    slug: "debats"
-    file: "content/fr/posts_categories/debats/_index.html"
-    name: "Débats, analyses"
-  - permalink: "/actualites/evenements/"
-    path: "/posts_categories/evenements"
-    slug: "evenements"
-    file: "content/fr/posts_categories/evenements/_index.html"
-    name: "Evénements"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/actualites/debats/"
+        path: "/posts_categories/debats"
+        slug: "debats"
+        file: "content/fr/posts_categories/debats/_index.html"
+        name: "Débats, analyses"
+      - permalink: "/actualites/evenements/"
+        path: "/posts_categories/evenements"
+        slug: "evenements"
+        file: "content/fr/posts_categories/evenements/_index.html"
+        name: "Evénements"
+
 
 translationKey: communication-website-post-1691effc-994c-4115-b99a-c5c569abcba6
 
