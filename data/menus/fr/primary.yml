@@ -103,13 +103,6 @@ items:
       children: []
       path: "/pages/les-actions/interventions/conferences"
       file: content/fr/pages/les-actions/interventions/conferences/_index.html
-    - title: Le défi déconnexion
-      target: "/les-actions/interventions/les-ateliers/le-defi-deconnexion/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion"
-      file: content/fr/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion/_index.html
     - title: Les projets collectifs
       target: "/les-actions/interventions/les-projets-collectifs/"
       kind: page
