@@ -110,18 +110,6 @@ items:
       children: []
       path: "/pages/les-actions/interventions/les-projets-collectifs"
       file: content/fr/pages/les-actions/interventions/les-projets-collectifs/_index.html
-  - title: Les publics
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: Entreprises
-      target: "/les-actions/interventions/les-ateliers/entreprises/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/interventions/les-ateliers/entreprises"
-      file: content/fr/pages/les-actions/interventions/les-ateliers/entreprises/_index.html
   - title: Les ressources
     target: ''
     kind: blank
@@ -148,6 +136,18 @@ items:
       children: []
       path: "/pages/les-actions/notes-de-lecture"
       file: content/fr/pages/les-actions/notes-de-lecture/_index.html
+  - title: Les publics
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Entreprises
+      target: "/les-actions/interventions/les-ateliers/entreprises/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-actions/interventions/les-ateliers/entreprises"
+      file: content/fr/pages/les-actions/interventions/les-ateliers/entreprises/_index.html
   - title: Le plaidoyer
     target: ''
     kind: blank
