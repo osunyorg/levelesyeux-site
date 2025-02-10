@@ -115,13 +115,6 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Parents
-      target: "/les-actions/interventions/parents/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/interventions/parents"
-      file: content/fr/pages/les-actions/interventions/parents/_index.html
     - title: Entreprises
       target: "/les-actions/interventions/les-ateliers/entreprises/"
       kind: page
