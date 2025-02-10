@@ -110,13 +110,6 @@ items:
       children: []
       path: "/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion"
       file: content/fr/pages/les-actions/interventions/les-ateliers/le-defi-deconnexion/_index.html
-    - title: '"Plus de livres, moins d''écrans"'
-      target: "/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/interventions/le-projet-plus-de-livres-moins-decrans"
-      file: content/fr/pages/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/_index.html
     - title: Les projets collectifs
       target: "/les-actions/interventions/les-projets-collectifs/"
       kind: page
