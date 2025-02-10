@@ -130,12 +130,12 @@ items:
       path: "/pages/les-actions/interventions/parents"
       file: content/fr/pages/les-actions/interventions/parents/_index.html
     - title: Entreprises
-      target: "/les-actions/interventions/entreprises/"
+      target: "/les-actions/interventions/les-ateliers/entreprises/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/interventions/entreprises"
-      file: content/fr/pages/les-actions/interventions/entreprises/_index.html
+      path: "/pages/les-actions/interventions/les-ateliers/entreprises"
+      file: content/fr/pages/les-actions/interventions/les-ateliers/entreprises/_index.html
   - title: Les ressources
     target: ''
     kind: blank
