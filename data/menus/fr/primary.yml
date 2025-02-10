@@ -115,13 +115,6 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Jeunesse
-      target: "/les-actions/interventions/jeunesse/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/interventions/jeunesse"
-      file: content/fr/pages/les-actions/interventions/jeunesse/_index.html
     - title: Parents
       target: "/les-actions/interventions/parents/"
       kind: page
