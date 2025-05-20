@@ -90,45 +90,45 @@ items:
     new_tab: false
     children:
     - title: Les ateliers
-      target: "/les-actions/interventions/les-ateliers/"
+      target: "/les-actions/sensibiliser/les-ateliers/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/interventions/les-ateliers"
-      file: content/fr/pages/les-actions/interventions/les-ateliers/_index.html
+      path: "/pages/les-actions/sensibiliser/les-ateliers"
+      file: content/fr/pages/les-actions/sensibiliser/les-ateliers/_index.html
     - title: Les conférences
-      target: "/les-actions/interventions/conferences/"
+      target: "/les-actions/sensibiliser/conferences/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/interventions/conferences"
-      file: content/fr/pages/les-actions/interventions/conferences/_index.html
+      path: "/pages/les-actions/sensibiliser/conferences"
+      file: content/fr/pages/les-actions/sensibiliser/conferences/_index.html
     - title: Les projets collectifs
-      target: "/les-actions/interventions/les-projets-collectifs/"
+      target: "/les-actions/sensibiliser/les-projets-collectifs/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/interventions/les-projets-collectifs"
-      file: content/fr/pages/les-actions/interventions/les-projets-collectifs/_index.html
+      path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
+      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
     - title: Les formations
-      target: "/les-actions/interventions/les-formations/"
+      target: "/les-actions/sensibiliser/les-formations/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/interventions/les-formations"
-      file: content/fr/pages/les-actions/interventions/les-formations/_index.html
+      path: "/pages/les-actions/sensibiliser/les-formations"
+      file: content/fr/pages/les-actions/sensibiliser/les-formations/_index.html
   - title: Les ressources
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: 'Deconnexio : le nouveau Planète Déconnexion'
-      target: "/les-actions/deconnexio/"
+      target: "/les-actions/sensibiliser/deconnexio/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/deconnexio"
-      file: content/fr/pages/les-actions/deconnexio/_index.html
+      path: "/pages/les-actions/sensibiliser/deconnexio"
+      file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
     - title: 'Le livre : La Guerre de l''attention'
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
@@ -137,38 +137,38 @@ items:
       path: "/posts/2022/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux"
       file: content/fr/posts/2022/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux.html
     - title: Les notes de lecture
-      target: "/les-actions/notes-de-lecture/"
+      target: "/les-actions/connaissance/notes-de-lecture/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/notes-de-lecture"
-      file: content/fr/pages/les-actions/notes-de-lecture/_index.html
+      path: "/pages/les-actions/connaissance/notes-de-lecture"
+      file: content/fr/pages/les-actions/connaissance/notes-de-lecture/_index.html
   - title: Le plaidoyer
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Le Collectif Attention
-      target: "/les-actions/plaidoyer/collectif-attention/"
+      target: "/les-actions/federer/collectif-attention/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/plaidoyer/collectif-attention"
-      file: content/fr/pages/les-actions/plaidoyer/collectif-attention/_index.html
+      path: "/pages/les-actions/federer/collectif-attention"
+      file: content/fr/pages/les-actions/federer/collectif-attention/_index.html
     - title: Les points de vue
-      target: "/les-actions/plaidoyer/points-de-vue/"
+      target: "/les-actions/connaissance/points-de-vue/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/plaidoyer/points-de-vue"
-      file: content/fr/pages/les-actions/plaidoyer/points-de-vue/_index.html
+      path: "/pages/les-actions/connaissance/points-de-vue"
+      file: content/fr/pages/les-actions/connaissance/points-de-vue/_index.html
     - title: La revue de presse
-      target: "/les-actions/plaidoyer/revue-de-presse/"
+      target: "/les-actions/connaissance/revue-de-presse/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/les-actions/plaidoyer/revue-de-presse"
-      file: content/fr/pages/les-actions/plaidoyer/revue-de-presse/_index.html
+      path: "/pages/les-actions/connaissance/revue-de-presse"
+      file: content/fr/pages/les-actions/connaissance/revue-de-presse/_index.html
 - title: L'agenda
   target: "/agenda/"
   kind: page
