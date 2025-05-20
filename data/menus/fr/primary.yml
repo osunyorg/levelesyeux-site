@@ -84,7 +84,7 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Les interventions
+  - title: Sensibiliser
     target: ''
     kind: blank
     new_tab: false
@@ -117,19 +117,26 @@ items:
       children: []
       path: "/pages/les-actions/sensibiliser/les-formations"
       file: content/fr/pages/les-actions/sensibiliser/les-formations/_index.html
-  - title: Les ressources
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: 'Deconnexio : le nouveau Planète Déconnexion'
+    - title: En entreprise
+      target: "/les-actions/sensibiliser/entreprises/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-actions/sensibiliser/entreprises"
+      file: content/fr/pages/les-actions/sensibiliser/entreprises/_index.html
+    - title: Le jeu Deconnexio
       target: "/les-actions/sensibiliser/deconnexio/"
       kind: page
       new_tab: false
       children: []
       path: "/pages/les-actions/sensibiliser/deconnexio"
       file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
-    - title: 'Le livre : La Guerre de l''attention'
+  - title: Enrichir la connaissance
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: 'Les livres '
       target: "/actualites/2022-01-21-la-guerre-de-lattention-un-livre-made-in-leve-les-yeux/"
       kind: post
       new_tab: false
@@ -143,7 +150,21 @@ items:
       children: []
       path: "/pages/les-actions/connaissance/notes-de-lecture"
       file: content/fr/pages/les-actions/connaissance/notes-de-lecture/_index.html
-  - title: Le plaidoyer
+    - title: La revue de presse
+      target: "/les-actions/connaissance/revue-de-presse/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-actions/connaissance/revue-de-presse"
+      file: content/fr/pages/les-actions/connaissance/revue-de-presse/_index.html
+    - title: Les points de vue
+      target: "/les-actions/connaissance/points-de-vue/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-actions/connaissance/points-de-vue"
+      file: content/fr/pages/les-actions/connaissance/points-de-vue/_index.html
+  - title: Fédérer
     target: ''
     kind: blank
     new_tab: false
@@ -155,20 +176,6 @@ items:
       children: []
       path: "/pages/les-actions/federer/collectif-attention"
       file: content/fr/pages/les-actions/federer/collectif-attention/_index.html
-    - title: Les points de vue
-      target: "/les-actions/connaissance/points-de-vue/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/connaissance/points-de-vue"
-      file: content/fr/pages/les-actions/connaissance/points-de-vue/_index.html
-    - title: La revue de presse
-      target: "/les-actions/connaissance/revue-de-presse/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/les-actions/connaissance/revue-de-presse"
-      file: content/fr/pages/les-actions/connaissance/revue-de-presse/_index.html
 - title: L'agenda
   target: "/agenda/"
   kind: page
