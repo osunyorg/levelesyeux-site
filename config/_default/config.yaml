@@ -15,3 +15,6 @@ params:
     active: true
   debug:
      productionUrl: "https://www.levelesyeux.com"
+  home:
+    head:
+      title: site
