@@ -131,6 +131,13 @@ items:
       children: []
       path: "/pages/les-actions/sensibiliser/deconnexio"
       file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
+    - title: Les affiches
+      target: "/les-actions/sensibiliser/les-affiches/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/les-actions/sensibiliser/les-affiches"
+      file: content/fr/pages/les-actions/sensibiliser/les-affiches/_index.html
   - title: Enrichir la connaissance
     target: ''
     kind: blank
