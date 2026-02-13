@@ -2,206 +2,310 @@
 title: Menu principal
 items:
 - title: L'association
+  slug: l-association
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: L'essentiel
+    slug: l-essentiel
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Qui sommes-nous ?
+      slug: qui-sommes-nous
       target: "/lassociation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation"
       file: content/fr/pages/lassociation/_index.html
     - title: 'Pourquoi lever les yeux ? '
+      slug: pourquoi-lever-les-yeux
       target: "/lassociation/pourquoi-lever-les-yeux/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/pourquoi-lever-les-yeux"
       file: content/fr/pages/lassociation/pourquoi-lever-les-yeux/_index.html
     - title: On parle de nous
+      slug: on-parle-de-nous
       target: "/lassociation/on-parle-de-nous/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/on-parle-de-nous"
       file: content/fr/pages/lassociation/on-parle-de-nous/_index.html
     - title: Nous contacter
+      slug: nous-contacter
       target: "/lassociation/contact/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/contact"
       file: content/fr/pages/lassociation/contact/_index.html
+    descendants_targets:
+    - "/lassociation/"
+    - "/lassociation/contact/"
+    - "/lassociation/on-parle-de-nous/"
+    - "/lassociation/pourquoi-lever-les-yeux/"
   - title: Le réseau
+    slug: le-reseau
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Artistes
+      slug: artistes
       target: "/lassociation/les-artistes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/les-artistes"
       file: content/fr/pages/lassociation/les-artistes/_index.html
     - title: Partenaires
+      slug: partenaires
       target: "/lassociation/les-associations-amies-et-partenaires/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/les-associations-amies-et-partenaires"
       file: content/fr/pages/lassociation/les-associations-amies-et-partenaires/_index.html
     - title: Lieux déconnectés
+      slug: lieux-deconnectes
       target: "/lassociation/label/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/label"
       file: content/fr/pages/lassociation/label/_index.html
+    descendants_targets:
+    - "/lassociation/label/"
+    - "/lassociation/les-artistes/"
+    - "/lassociation/les-associations-amies-et-partenaires/"
   - title: Nous rejoindre
+    slug: nous-rejoindre
     target: "/lassociation/"
     kind: page
     new_tab: false
     children:
     - title: Adhérer
+      slug: adherer
       target: "/adherer/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/adherer"
       file: content/fr/pages/adherer/_index.html
+    descendants_targets:
+    - "/adherer/"
     path: "/pages/lassociation"
     file: content/fr/pages/lassociation/_index.html
+  descendants_targets:
+  - ''
+  - "/adherer/"
+  - "/lassociation/"
+  - "/lassociation/contact/"
+  - "/lassociation/label/"
+  - "/lassociation/les-artistes/"
+  - "/lassociation/les-associations-amies-et-partenaires/"
+  - "/lassociation/on-parle-de-nous/"
+  - "/lassociation/pourquoi-lever-les-yeux/"
 - title: Les actions
+  slug: les-actions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Sensibiliser
+    slug: sensibiliser
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Les ateliers
+      slug: les-ateliers
       target: "/les-actions/sensibiliser/les-ateliers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-ateliers"
       file: content/fr/pages/les-actions/sensibiliser/les-ateliers/_index.html
     - title: Les conférences
+      slug: les-conferences
       target: "/les-actions/sensibiliser/conferences/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/conferences"
       file: content/fr/pages/les-actions/sensibiliser/conferences/_index.html
     - title: Les projets collectifs
+      slug: les-projets-collectifs
       target: "/les-actions/sensibiliser/les-projets-collectifs/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
       file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
     - title: Les formations
+      slug: les-formations
       target: "/les-actions/sensibiliser/les-formations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-formations"
       file: content/fr/pages/les-actions/sensibiliser/les-formations/_index.html
     - title: En entreprise
+      slug: en-entreprise
       target: "/les-actions/sensibiliser/entreprises/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/entreprises"
       file: content/fr/pages/les-actions/sensibiliser/entreprises/_index.html
     - title: Le jeu Deconnexio
+      slug: le-jeu-deconnexio
       target: "/les-actions/sensibiliser/deconnexio/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/deconnexio"
       file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
     - title: Les affiches
+      slug: les-affiches
       target: "/les-actions/sensibiliser/les-affiches/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-affiches"
       file: content/fr/pages/les-actions/sensibiliser/les-affiches/_index.html
+    descendants_targets:
+    - "/les-actions/sensibiliser/conferences/"
+    - "/les-actions/sensibiliser/deconnexio/"
+    - "/les-actions/sensibiliser/entreprises/"
+    - "/les-actions/sensibiliser/les-affiches/"
+    - "/les-actions/sensibiliser/les-ateliers/"
+    - "/les-actions/sensibiliser/les-formations/"
+    - "/les-actions/sensibiliser/les-projets-collectifs/"
   - title: Enrichir la connaissance
+    slug: enrichir-la-connaissance
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Les livres
+      slug: les-livres
       target: "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/connaissance/les-livres-made-in-leve-les-yeux"
       file: content/fr/pages/les-actions/connaissance/les-livres-made-in-leve-les-yeux/_index.html
     - title: Les notes de lecture
+      slug: les-notes-de-lecture
       target: "/les-actions/connaissance/notes-de-lecture/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/connaissance/notes-de-lecture"
       file: content/fr/pages/les-actions/connaissance/notes-de-lecture/_index.html
     - title: La revue de presse
+      slug: la-revue-de-presse
       target: "/les-actions/connaissance/revue-de-presse/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/connaissance/revue-de-presse"
       file: content/fr/pages/les-actions/connaissance/revue-de-presse/_index.html
     - title: Les points de vue
+      slug: les-points-de-vue
       target: "/les-actions/connaissance/points-de-vue/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/connaissance/points-de-vue"
       file: content/fr/pages/les-actions/connaissance/points-de-vue/_index.html
+    descendants_targets:
+    - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
+    - "/les-actions/connaissance/notes-de-lecture/"
+    - "/les-actions/connaissance/points-de-vue/"
+    - "/les-actions/connaissance/revue-de-presse/"
   - title: Fédérer
+    slug: federer
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Le Collectif Attention
+      slug: le-collectif-attention
       target: "/les-actions/federer/collectif-attention/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-actions/federer/collectif-attention"
       file: content/fr/pages/les-actions/federer/collectif-attention/_index.html
+    descendants_targets:
+    - "/les-actions/federer/collectif-attention/"
+  descendants_targets:
+  - ''
+  - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
+  - "/les-actions/connaissance/notes-de-lecture/"
+  - "/les-actions/connaissance/points-de-vue/"
+  - "/les-actions/connaissance/revue-de-presse/"
+  - "/les-actions/federer/collectif-attention/"
+  - "/les-actions/sensibiliser/conferences/"
+  - "/les-actions/sensibiliser/deconnexio/"
+  - "/les-actions/sensibiliser/entreprises/"
+  - "/les-actions/sensibiliser/les-affiches/"
+  - "/les-actions/sensibiliser/les-ateliers/"
+  - "/les-actions/sensibiliser/les-formations/"
+  - "/les-actions/sensibiliser/les-projets-collectifs/"
 - title: L'agenda
+  slug: l-agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: La lettre d'info
+  slug: la-lettre-d-info
   target: "/lassociation/newsletter/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/lassociation/newsletter"
   file: content/fr/pages/lassociation/newsletter/_index.html
 - title: Faire un don
+  slug: faire-un-don
   target: "/lassociation/faire-un-don/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/lassociation/faire-un-don"
   file: content/fr/pages/lassociation/faire-un-don/_index.html
 
