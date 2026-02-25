@@ -227,15 +227,6 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/connaissance/notes-de-lecture"
       file: content/fr/pages/les-actions/connaissance/notes-de-lecture/_index.html
-    - title: La revue de presse
-      slug: la-revue-de-presse
-      target: "/les-actions/connaissance/revue-de-presse/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/connaissance/revue-de-presse"
-      file: content/fr/pages/les-actions/connaissance/revue-de-presse/_index.html
     - title: Les points de vue
       slug: les-points-de-vue
       target: "/les-actions/connaissance/points-de-vue/"
@@ -249,7 +240,6 @@ items:
     - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
     - "/les-actions/connaissance/notes-de-lecture/"
     - "/les-actions/connaissance/points-de-vue/"
-    - "/les-actions/connaissance/revue-de-presse/"
   - title: Fédérer
     slug: federer
     target: ''
@@ -272,7 +262,6 @@ items:
   - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
   - "/les-actions/connaissance/notes-de-lecture/"
   - "/les-actions/connaissance/points-de-vue/"
-  - "/les-actions/connaissance/revue-de-presse/"
   - "/les-actions/federer/collectif-attention/"
   - "/les-actions/sensibiliser/conferences/"
   - "/les-actions/sensibiliser/deconnexio/"
