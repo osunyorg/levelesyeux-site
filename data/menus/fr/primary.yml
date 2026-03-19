@@ -218,8 +218,8 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/connaissance/les-livres-made-in-leve-les-yeux"
       file: content/fr/pages/les-actions/connaissance/les-livres-made-in-leve-les-yeux/_index.html
-    - title: Recensions
-      slug: recensions
+    - title: Les recensions
+      slug: les-recensions
       target: "/les-actions/connaissance/notes-de-lecture/"
       kind: page
       new_tab: false
