@@ -270,15 +270,6 @@ items:
   - "/les-actions/sensibiliser/les-ateliers/"
   - "/les-actions/sensibiliser/les-formations/"
   - "/les-actions/sensibiliser/les-projets-collectifs/"
-- title: L'agenda
-  slug: l-agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: La lettre d'info
   slug: la-lettre-d-info
   target: "/lassociation/newsletter/"
