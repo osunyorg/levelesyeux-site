@@ -89,28 +89,28 @@ items:
       file: content/fr/pages/lassociation/label/_index.html
     - title: Le jeu Deconnexio
       slug: le-jeu-deconnexio
-      target: "/les-actions/sensibiliser/deconnexio/"
+      target: "/lassociation/deconnexio/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/deconnexio"
-      file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
+      path: "/pages/lassociation/deconnexio"
+      file: content/fr/pages/lassociation/deconnexio/_index.html
     - title: Les affiches
       slug: les-affiches
-      target: "/les-actions/sensibiliser/les-affiches/"
+      target: "/lassociation/les-affiches/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/les-affiches"
-      file: content/fr/pages/les-actions/sensibiliser/les-affiches/_index.html
+      path: "/pages/lassociation/les-affiches"
+      file: content/fr/pages/lassociation/les-affiches/_index.html
     descendants_targets:
+    - "/lassociation/deconnexio/"
     - "/lassociation/label/"
+    - "/lassociation/les-affiches/"
     - "/lassociation/les-artistes/"
     - "/lassociation/les-associations-amies-et-partenaires/"
-    - "/les-actions/sensibiliser/deconnexio/"
-    - "/les-actions/sensibiliser/les-affiches/"
   - title: Nous rejoindre
     slug: nous-rejoindre
     target: "/lassociation/"
@@ -135,13 +135,13 @@ items:
   - "/adherer/"
   - "/lassociation/"
   - "/lassociation/contact/"
+  - "/lassociation/deconnexio/"
   - "/lassociation/label/"
+  - "/lassociation/les-affiches/"
   - "/lassociation/les-artistes/"
   - "/lassociation/les-associations-amies-et-partenaires/"
   - "/lassociation/on-parle-de-nous/"
   - "/lassociation/pourquoi-lever-les-yeux/"
-  - "/les-actions/sensibiliser/deconnexio/"
-  - "/les-actions/sensibiliser/les-affiches/"
 - title: Les actions
   slug: les-actions
   target: ''
