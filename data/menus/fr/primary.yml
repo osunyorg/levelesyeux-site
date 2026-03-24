@@ -31,8 +31,8 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/pourquoi-lever-les-yeux"
       file: content/fr/pages/lassociation/pourquoi-lever-les-yeux/_index.html
-    - title: On parle de nous
-      slug: on-parle-de-nous
+    - title: On parle de nous dans les médias
+      slug: on-parle-de-nous-dans-les-medias
       target: "/lassociation/on-parle-de-nous/"
       kind: page
       new_tab: false
@@ -40,18 +40,8 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/on-parle-de-nous"
       file: content/fr/pages/lassociation/on-parle-de-nous/_index.html
-    - title: Nous contacter
-      slug: nous-contacter
-      target: "/lassociation/contact/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/lassociation/contact"
-      file: content/fr/pages/lassociation/contact/_index.html
     descendants_targets:
     - "/lassociation/"
-    - "/lassociation/contact/"
     - "/lassociation/on-parle-de-nous/"
     - "/lassociation/pourquoi-lever-les-yeux/"
   - title: Le réseau
@@ -126,8 +116,28 @@ items:
       descendants_targets: []
       path: "/pages/adherer"
       file: content/fr/pages/adherer/_index.html
+    - title: Faire un don
+      slug: faire-un-don
+      target: "/lassociation/faire-un-don/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/lassociation/faire-un-don"
+      file: content/fr/pages/lassociation/faire-un-don/_index.html
+    - title: Nous contacter
+      slug: nous-contacter
+      target: "/lassociation/contact/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/lassociation/contact"
+      file: content/fr/pages/lassociation/contact/_index.html
     descendants_targets:
     - "/adherer/"
+    - "/lassociation/contact/"
+    - "/lassociation/faire-un-don/"
     path: "/pages/lassociation"
     file: content/fr/pages/lassociation/_index.html
   descendants_targets:
@@ -136,6 +146,7 @@ items:
   - "/lassociation/"
   - "/lassociation/contact/"
   - "/lassociation/deconnexio/"
+  - "/lassociation/faire-un-don/"
   - "/lassociation/label/"
   - "/lassociation/les-affiches/"
   - "/lassociation/les-artistes/"
