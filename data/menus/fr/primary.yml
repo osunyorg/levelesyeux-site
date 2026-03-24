@@ -118,8 +118,8 @@ items:
       file: content/fr/pages/adherer/_index.html
     - title: Faire un don
       slug: faire-un-don
-      target: "/lassociation/faire-un-don/"
-      kind: page
+      target: https://www.levelesyeux.com/lassociation/faire-un-don/
+      kind: url
       new_tab: false
       children: []
       descendants_targets: []
@@ -137,7 +137,7 @@ items:
     descendants_targets:
     - "/adherer/"
     - "/lassociation/contact/"
-    - "/lassociation/faire-un-don/"
+    - https://www.levelesyeux.com/lassociation/faire-un-don/
     path: "/pages/lassociation"
     file: content/fr/pages/lassociation/_index.html
   descendants_targets:
@@ -146,13 +146,13 @@ items:
   - "/lassociation/"
   - "/lassociation/contact/"
   - "/lassociation/deconnexio/"
-  - "/lassociation/faire-un-don/"
   - "/lassociation/label/"
   - "/lassociation/les-affiches/"
   - "/lassociation/les-artistes/"
   - "/lassociation/les-associations-amies-et-partenaires/"
   - "/lassociation/on-parle-de-nous/"
   - "/lassociation/pourquoi-lever-les-yeux/"
+  - https://www.levelesyeux.com/lassociation/faire-un-don/
 - title: Les actions
   slug: les-actions
   target: ''
