@@ -87,10 +87,30 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/label"
       file: content/fr/pages/lassociation/label/_index.html
+    - title: Le jeu Deconnexio
+      slug: le-jeu-deconnexio
+      target: "/les-actions/sensibiliser/deconnexio/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/deconnexio"
+      file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
+    - title: Les affiches
+      slug: les-affiches
+      target: "/les-actions/sensibiliser/les-affiches/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-affiches"
+      file: content/fr/pages/les-actions/sensibiliser/les-affiches/_index.html
     descendants_targets:
     - "/lassociation/label/"
     - "/lassociation/les-artistes/"
     - "/lassociation/les-associations-amies-et-partenaires/"
+    - "/les-actions/sensibiliser/deconnexio/"
+    - "/les-actions/sensibiliser/les-affiches/"
   - title: Nous rejoindre
     slug: nous-rejoindre
     target: "/lassociation/"
@@ -120,6 +140,8 @@ items:
   - "/lassociation/les-associations-amies-et-partenaires/"
   - "/lassociation/on-parle-de-nous/"
   - "/lassociation/pourquoi-lever-les-yeux/"
+  - "/les-actions/sensibiliser/deconnexio/"
+  - "/les-actions/sensibiliser/les-affiches/"
 - title: Les actions
   slug: les-actions
   target: ''
@@ -132,8 +154,17 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Les ateliers
-      slug: les-ateliers
+    - title: Les ateliers pour les parents
+      slug: les-ateliers-pour-les-parents
+      target: "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents"
+      file: content/fr/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents/_index.html
+    - title: Les ateliers pour les enfants et les adolescents
+      slug: les-ateliers-pour-les-enfants-et-les-adolescents
       target: "/les-actions/sensibiliser/les-ateliers/"
       kind: page
       new_tab: false
@@ -150,6 +181,24 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/sensibiliser/conferences"
       file: content/fr/pages/les-actions/sensibiliser/conferences/_index.html
+    - title: La formation professionnelle
+      slug: la-formation-professionnelle
+      target: "/les-actions/sensibiliser/les-formations/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-formations"
+      file: content/fr/pages/les-actions/sensibiliser/les-formations/_index.html
+    - title: Les interventions en entreprise
+      slug: les-interventions-en-entreprise
+      target: "/les-actions/sensibiliser/entreprises/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/entreprises"
+      file: content/fr/pages/les-actions/sensibiliser/entreprises/_index.html
     - title: Les projets collectifs
       slug: les-projets-collectifs
       target: "/les-actions/sensibiliser/les-projets-collectifs/"
@@ -159,47 +208,10 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
       file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
-    - title: Les formations
-      slug: les-formations
-      target: "/les-actions/sensibiliser/les-formations/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/les-formations"
-      file: content/fr/pages/les-actions/sensibiliser/les-formations/_index.html
-    - title: En entreprise
-      slug: en-entreprise
-      target: "/les-actions/sensibiliser/entreprises/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/entreprises"
-      file: content/fr/pages/les-actions/sensibiliser/entreprises/_index.html
-    - title: Le jeu Deconnexio
-      slug: le-jeu-deconnexio
-      target: "/les-actions/sensibiliser/deconnexio/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/deconnexio"
-      file: content/fr/pages/les-actions/sensibiliser/deconnexio/_index.html
-    - title: Les affiches
-      slug: les-affiches
-      target: "/les-actions/sensibiliser/les-affiches/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/les-affiches"
-      file: content/fr/pages/les-actions/sensibiliser/les-affiches/_index.html
     descendants_targets:
     - "/les-actions/sensibiliser/conferences/"
-    - "/les-actions/sensibiliser/deconnexio/"
     - "/les-actions/sensibiliser/entreprises/"
-    - "/les-actions/sensibiliser/les-affiches/"
+    - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
     - "/les-actions/sensibiliser/les-ateliers/"
     - "/les-actions/sensibiliser/les-formations/"
     - "/les-actions/sensibiliser/les-projets-collectifs/"
@@ -264,9 +276,8 @@ items:
   - "/les-actions/connaissance/points-de-vue/"
   - "/les-actions/federer/collectif-attention/"
   - "/les-actions/sensibiliser/conferences/"
-  - "/les-actions/sensibiliser/deconnexio/"
   - "/les-actions/sensibiliser/entreprises/"
-  - "/les-actions/sensibiliser/les-affiches/"
+  - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
   - "/les-actions/sensibiliser/les-ateliers/"
   - "/les-actions/sensibiliser/les-formations/"
   - "/les-actions/sensibiliser/les-projets-collectifs/"
