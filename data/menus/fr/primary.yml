@@ -50,8 +50,8 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Artistes
-      slug: artistes
+    - title: Artistes et projets associés
+      slug: artistes-et-projets-associes
       target: "/lassociation/les-artistes/"
       kind: page
       new_tab: false
