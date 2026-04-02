@@ -165,15 +165,6 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Les ateliers pour les parents
-      slug: les-ateliers-pour-les-parents
-      target: "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents"
-      file: content/fr/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents/_index.html
     - title: Les ateliers pour les enfants et les adolescents
       slug: les-ateliers-pour-les-enfants-et-les-adolescents
       target: "/les-actions/sensibiliser/les-ateliers/"
@@ -183,6 +174,15 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-ateliers"
       file: content/fr/pages/les-actions/sensibiliser/les-ateliers/_index.html
+    - title: Les ateliers pour les parents
+      slug: les-ateliers-pour-les-parents
+      target: "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents"
+      file: content/fr/pages/les-actions/sensibiliser/les-ateliers-pour-les-parents/_index.html
     - title: Les conférences
       slug: les-conferences
       target: "/les-actions/sensibiliser/conferences/"
