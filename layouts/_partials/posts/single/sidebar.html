@@ -1,0 +1,8 @@
+{{ $is_toc_present := .Params.design.toc.present }}
+{{ if $is_toc_present }}
+  <div class="section-sidebar post-sidebar">
+    {{ partial "toc/container.html" (dict
+      "context" .
+    ) }}
+  </div>
+{{ end }}
