@@ -77,15 +77,6 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/label"
       file: content/fr/pages/lassociation/label/_index.html
-    - title: Le jeu Deconnexio
-      slug: le-jeu-deconnexio
-      target: "/lassociation/deconnexio/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/lassociation/deconnexio"
-      file: content/fr/pages/lassociation/deconnexio/_index.html
     - title: Les affiches
       slug: les-affiches
       target: "/lassociation/les-affiches/"
@@ -96,7 +87,6 @@ items:
       path: "/pages/lassociation/les-affiches"
       file: content/fr/pages/lassociation/les-affiches/_index.html
     descendants_targets:
-    - "/lassociation/deconnexio/"
     - "/lassociation/label/"
     - "/lassociation/les-affiches/"
     - "/lassociation/les-artistes/"
@@ -145,7 +135,6 @@ items:
   - "/adherer/"
   - "/lassociation/"
   - "/lassociation/contact/"
-  - "/lassociation/deconnexio/"
   - "/lassociation/label/"
   - "/lassociation/les-affiches/"
   - "/lassociation/les-artistes/"
@@ -219,7 +208,17 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
       file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
+    - title: Le jeu Deconnexio
+      slug: le-jeu-deconnexio
+      target: "/lassociation/deconnexio/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/lassociation/deconnexio"
+      file: content/fr/pages/lassociation/deconnexio/_index.html
     descendants_targets:
+    - "/lassociation/deconnexio/"
     - "/les-actions/sensibiliser/conferences/"
     - "/les-actions/sensibiliser/entreprises/"
     - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
@@ -282,6 +281,7 @@ items:
     - "/les-actions/federer/collectif-attention/"
   descendants_targets:
   - ''
+  - "/lassociation/deconnexio/"
   - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
   - "/les-actions/connaissance/notes-de-lecture/"
   - "/les-actions/connaissance/points-de-vue/"
