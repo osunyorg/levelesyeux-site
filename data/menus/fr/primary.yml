@@ -40,8 +40,8 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/on-parle-de-nous"
       file: content/fr/pages/lassociation/on-parle-de-nous/_index.html
-    - title: Agenda
-      slug: agenda
+    - title: L'agenda
+      slug: l-agenda
       target: "/agenda/"
       kind: page
       new_tab: false
