@@ -103,8 +103,8 @@ items:
     - "/lassociation/les-associations-amies-et-partenaires/"
   - title: Nous rejoindre
     slug: nous-rejoindre
-    target: "/lassociation/"
-    kind: page
+    target: ''
+    kind: blank
     new_tab: false
     children:
     - title: Adhérer
