@@ -35,6 +35,10 @@ from = "/agenda/2025-03-12-ateliers-deconnexion-aupres-de-jeunes-2/index.html"
 to = "/agenda/2025/ateliers-deconnexion-aupres-de-jeunes-2/"
 
 [[redirects]]
+from = "/les-actions/sensibiliser/les-projets-collectifs/index.html"
+to = "/les-actions/les-projets-collectifs/"
+
+[[redirects]]
 from = "/actualites/2022-10-02-bulles-de-zinc/index.html"
 to = "/actualites/2018-01-02-bulles-de-zinc/"
 
@@ -312,7 +316,7 @@ to = "/agenda/2024/rencontre-autour-du-livre-barbarie-numerique-une-autre-histoi
 
 [[redirects]]
 from = "/les-actions/interventions/les-projets-collectifs/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/"
+to = "/les-actions/les-projets-collectifs/"
 
 [[redirects]]
 from = "/notes-de-lecture/index.html"
@@ -665,6 +669,10 @@ to = "/agenda/2024/3emes-assises-de-lattention-a-lacademie-du-climat/"
 [[redirects]]
 from = "/agenda/2024-03-04-ateliers-deconnexion-3/index.html"
 to = "/agenda/2024/ateliers-deconnexion-3/"
+
+[[redirects]]
+from = "/les-actions/sensibiliser/les-projets-collectifs/le-proces-fictif-des-applis/index.html"
+to = "/les-actions/les-projets-collectifs/le-proces-fictif-des-applis/"
 
 [[redirects]]
 from = "/les-actions/sensibiliser/deconnexio/index.html"
