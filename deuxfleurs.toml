@@ -44,7 +44,7 @@ to = "/actualites/2018-01-02-bulles-de-zinc/"
 
 [[redirects]]
 from = "/les-actions/interventions/les-projets-collectifs/leve-les-yeux-a-la-maison/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/"
+to = "/les-actions/les-projets-collectifs/leve-les-yeux-a-la-maison/"
 
 [[redirects]]
 from = "/actualites/2022-10-12-sepand-danesh/index.html"
@@ -92,7 +92,7 @@ to = "/agenda/2025/contre-sommet-de-lia-pour-un-humanisme-de-notre-temps/"
 
 [[redirects]]
 from = "/les-actions/interventions/les-ateliers/le-defi-deconnexion/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+to = "/les-actions/les-projets-collectifs/le-defi-deconnexion/"
 
 [[redirects]]
 from = "/agenda/2024-06-01-atelier-planete-ia/index.html"
@@ -137,6 +137,10 @@ to = "/agenda/2024/ateliers-deconnexion-aupres-de-jeunes/"
 [[redirects]]
 from = "/agenda/2024-07-09-participation-dyves-marry-a-une-table-ronde-sur-le-cyberharcelement/index.html"
 to = "/agenda/2024/participation-dyves-marry-a-une-table-ronde-sur-le-cyberharcelement/"
+
+[[redirects]]
+from = "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/index.html"
+to = "/les-actions/les-projets-collectifs/le-defi-deconnexion/"
 
 [[redirects]]
 from = "/agenda/2024-12-23-ateliers-deconnexion-jeunes/index.html"
@@ -284,7 +288,7 @@ to = "/agenda/2024/atelier-parents-9/"
 
 [[redirects]]
 from = "/les-actions/interventions/les-projets-collectifs/le-defi-deconnexion/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+to = "/les-actions/les-projets-collectifs/le-defi-deconnexion/"
 
 [[redirects]]
 from = "/interventions/agenda/2023-11-15-conference-comment-proteger-ses-enfants-a-lere-numerique/index.html"
@@ -313,6 +317,10 @@ to = "/agenda/2025/barbarie-numerique-une-autre-histoire-du-monde-connecte-lecha
 [[redirects]]
 from = "/agenda/2024-10-23-rencontre-autour-du-livre-barbarie-numerique-une-autre-histoire-du-monde-connecte-de-fabien-lebrun-l-4/index.html"
 to = "/agenda/2024/rencontre-autour-du-livre-barbarie-numerique-une-autre-histoire-du-monde-connecte-de-fabien-lebrun-l-2/"
+
+[[redirects]]
+from = "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/index.html"
+to = "/les-actions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
 
 [[redirects]]
 from = "/les-actions/interventions/les-projets-collectifs/index.html"
@@ -572,7 +580,7 @@ to = "/les-actions/sensibiliser/les-ateliers/latelier-petite-enfance/"
 
 [[redirects]]
 from = "/les-actions/interventions/le-projet-plus-de-livres-moins-decrans/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
+to = "/les-actions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
 
 [[redirects]]
 from = "/agenda/2024-03-28-formation-des-jeunes-volontaires-en-service-civique-avec-uniscite/index.html"
@@ -696,7 +704,7 @@ to = "/actualites/2026-03-23-communique-de-presse-du-collectif-attention-1/"
 
 [[redirects]]
 from = "/les-actions/interventions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
+to = "/les-actions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
 
 [[redirects]]
 from = "/agenda/2025-02-07-atelier-deconnexion-aupres-de-professionnels-de-linstitut-de-recherche-et-dinnovation-iri/index.html"
@@ -923,6 +931,10 @@ from = "/agenda/2024-06-10-atelier-deconnexion-aupres-de-jeunes/index.html"
 to = "/agenda/2024/atelier-deconnexion-aupres-de-jeunes/"
 
 [[redirects]]
+from = "/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/index.html"
+to = "/les-actions/les-projets-collectifs/leve-les-yeux-a-la-maison/"
+
+[[redirects]]
 from = "/agenda/2025-01-30-et-si-on-levait-les-yeux-une-classe-face-aux-ecrans-documentaire-de-gilles-vernet/index.html"
 to = "/agenda/2025/et-si-on-levait-les-yeux-une-classe-face-aux-ecrans-documentaire-de-gilles-vernet/"
 
@@ -1008,7 +1020,7 @@ to = "/agenda/2023/ateliers-deconnexion-2/"
 
 [[redirects]]
 from = "/le-defi-deconnexion/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+to = "/les-actions/les-projets-collectifs/le-defi-deconnexion/"
 
 [[redirects]]
 from = "/actualites/2018-10-02-bulles-de-zinc/index.html"
@@ -1016,7 +1028,7 @@ to = "/actualites/2018-01-02-bulles-de-zinc/"
 
 [[redirects]]
 from = "/les-actions/les-ateliers/le-defi-deconnexion/index.html"
-to = "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+to = "/les-actions/les-projets-collectifs/le-defi-deconnexion/"
 
 [[redirects]]
 from = "/organisations/leclap/index.html"
