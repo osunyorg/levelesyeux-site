@@ -228,8 +228,8 @@ items:
     - "/les-actions/sensibiliser/les-formations/"
   - title: Fédérer
     slug: federer
-    target: "/les-actions/les-projets-collectifs/"
-    kind: page
+    target: ''
+    kind: blank
     new_tab: false
     children:
     - title: Le défi déconnexion
