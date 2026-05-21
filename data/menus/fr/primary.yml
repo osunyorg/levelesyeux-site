@@ -210,15 +210,6 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/sensibiliser/entreprises"
       file: content/fr/pages/les-actions/sensibiliser/entreprises/_index.html
-    - title: Les projets collectifs
-      slug: les-projets-collectifs
-      target: "/les-actions/sensibiliser/les-projets-collectifs/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
-      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
     - title: Le jeu Deconnexio
       slug: le-jeu-deconnexio
       target: "/lassociation/deconnexio/"
@@ -235,7 +226,55 @@ items:
     - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
     - "/les-actions/sensibiliser/les-ateliers/"
     - "/les-actions/sensibiliser/les-formations/"
+  - title: Fédérer
+    slug: federer
+    target: "/les-actions/sensibiliser/les-projets-collectifs/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Le défi déconnexion
+      slug: le-defi-deconnexion
+      target: "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion"
+      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/_index.html
+    - title: Le procès fictif des applis
+      slug: le-proces-fictif-des-applis
+      target: "/les-actions/sensibiliser/les-projets-collectifs/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
+      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
+    - title: Lève les yeux à la maison
+      slug: leve-les-yeux-a-la-maison
+      target: "/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison"
+      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/_index.html
+    - title: Plus de livres moins d'écrans
+      slug: plus-de-livres-moins-d-ecrans
+      target: "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans"
+      file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/_index.html
+    descendants_targets:
     - "/les-actions/sensibiliser/les-projets-collectifs/"
+    - "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+    - "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
+    - "/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/"
+    path: "/pages/les-actions/sensibiliser/les-projets-collectifs"
+    file: content/fr/pages/les-actions/sensibiliser/les-projets-collectifs/_index.html
   - title: Enrichir la connaissance
     slug: enrichir-la-connaissance
     target: ''
@@ -273,8 +312,8 @@ items:
     - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
     - "/les-actions/connaissance/notes-de-lecture/"
     - "/les-actions/connaissance/points-de-vue/"
-  - title: Fédérer
-    slug: federer
+  - title: Politiser
+    slug: politiser
     target: ''
     kind: blank
     new_tab: false
@@ -303,6 +342,9 @@ items:
   - "/les-actions/sensibiliser/les-ateliers/"
   - "/les-actions/sensibiliser/les-formations/"
   - "/les-actions/sensibiliser/les-projets-collectifs/"
+  - "/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/"
+  - "/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/"
+  - "/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/"
 - title: La lettre d'info
   slug: la-lettre-d-info
   target: "/lassociation/newsletter/"
