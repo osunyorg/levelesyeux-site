@@ -40,17 +40,7 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/on-parle-de-nous"
       file: content/fr/pages/lassociation/on-parle-de-nous/_index.html
-    - title: L'agenda
-      slug: l-agenda
-      target: "/agenda/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/events"
-      file: content/fr/events/_index.html
     descendants_targets:
-    - "/agenda/"
     - "/lassociation/"
     - "/lassociation/on-parle-de-nous/"
     - "/lassociation/pourquoi-lever-les-yeux/"
@@ -143,7 +133,6 @@ items:
   descendants_targets:
   - ''
   - "/adherer/"
-  - "/agenda/"
   - "/lassociation/"
   - "/lassociation/contact/"
   - "/lassociation/label/"
@@ -354,6 +343,15 @@ items:
   descendants_targets: []
   path: "/pages/lassociation/newsletter"
   file: content/fr/pages/lassociation/newsletter/_index.html
+- title: L'agenda
+  slug: l-agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
 - title: Faire un don
   slug: faire-un-don
   target: "/lassociation/faire-un-don/"
