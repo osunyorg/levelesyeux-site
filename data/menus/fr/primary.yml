@@ -208,6 +208,15 @@ items:
       descendants_targets: []
       path: "/pages/lassociation/deconnexio"
       file: content/fr/pages/lassociation/deconnexio/_index.html
+    - title: Références et pédagogie
+      slug: references-et-pedagogie
+      target: "/les-actions/sensibiliser/references-et-pedagogie/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/les-actions/sensibiliser/references-et-pedagogie"
+      file: content/fr/pages/les-actions/sensibiliser/references-et-pedagogie/_index.html
     descendants_targets:
     - "/lassociation/deconnexio/"
     - "/les-actions/sensibiliser/conferences/"
@@ -215,8 +224,9 @@ items:
     - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
     - "/les-actions/sensibiliser/les-ateliers/"
     - "/les-actions/sensibiliser/les-formations/"
-  - title: Fédérer
-    slug: federer
+    - "/les-actions/sensibiliser/references-et-pedagogie/"
+  - title: Projets collectifs
+    slug: projets-collectifs
     target: ''
     kind: blank
     new_tab: false
@@ -262,8 +272,6 @@ items:
     - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/
     - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/
     - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/leve-les-yeux-a-la-maison/
-    path: "/pages/les-actions/les-projets-collectifs"
-    file: content/fr/pages/les-actions/les-projets-collectifs/_index.html
   - title: Enrichir la connaissance
     slug: enrichir-la-connaissance
     target: ''
@@ -301,8 +309,8 @@ items:
     - "/les-actions/connaissance/les-livres-made-in-leve-les-yeux/"
     - "/les-actions/connaissance/notes-de-lecture/"
     - "/les-actions/connaissance/points-de-vue/"
-  - title: Politiser
-    slug: politiser
+  - title: Fédérer
+    slug: federer
     target: ''
     kind: blank
     new_tab: false
@@ -330,6 +338,7 @@ items:
   - "/les-actions/sensibiliser/les-ateliers-pour-les-parents/"
   - "/les-actions/sensibiliser/les-ateliers/"
   - "/les-actions/sensibiliser/les-formations/"
+  - "/les-actions/sensibiliser/references-et-pedagogie/"
   - https://www.levelesyeux.com/les-actions/les-projets-collectifs/le-proces-fictif-des-applis/
   - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/
   - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/
