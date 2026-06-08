@@ -1,28 +1,25 @@
 .posts__page
     .hero
-        .meta
+        .hero-meta
             margin-top: $spacing-3
-            &__date
-                margin-bottom: $spacing-1
-                @include media-breakpoint-up(desktop)
-                    display: inline
-            &__authors
+            gap: space()
+
+            .authors
                 padding-left: 0
-                list-style: none
+                a
+                    @include link(var(--color-text))
+                
                 @include media-breakpoint-up(desktop)
-                    display: inline
+                    display: inline-flex
                     &::before
                         content: " • "
-                li
-                    display: inline  
-            &__categories
-                display: block
-                list-style: none
+                        margin-right: space()
+
+            .taxonomies
                 padding-left: 0
                 margin-top: $spacing-3
                 li
                     display: inline
-                    margin-right: $spacing-2
                     a
                         line-height: 100%
                         background: $color-background
@@ -32,3 +29,5 @@
                         &:hover
                             background: $color-text-alt
                             color: $color-background
+                .taxonomy-children
+                    gap: space(3)
