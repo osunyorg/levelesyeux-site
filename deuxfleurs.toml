@@ -435,6 +435,10 @@ from = "/interventions/agenda/2023-10-26-stand-au-festival-de-lescabeau/index.ht
 to = "/agenda/2023/stand-au-festival-de-lescabeau/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/depliant-reveillez-votre-cerveau-lisez-cnl-fleurus-page-a-pagepdf/"
+
+[[redirects]]
 from = "/interventions/agenda/2018-05-15-soiree-de-lancement-de-leve-les-yeux/index.html"
 to = "/agenda/2018/soiree-de-lancement-de-leve-les-yeux/"
 
