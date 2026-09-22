@@ -267,7 +267,17 @@ items:
       descendants_targets: []
       path: "/pages/les-actions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans"
       file: content/fr/pages/les-actions/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/_index.html
+    - title: 'Qui se cache derrière tes écrans ? '
+      slug: qui-se-cache-derriere-tes-ecrans
+      target: "/qui-se-cache-derriere-tes-ecrans/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/qui-se-cache-derriere-tes-ecrans"
+      file: content/fr/pages/qui-se-cache-derriere-tes-ecrans/_index.html
     descendants_targets:
+    - "/qui-se-cache-derriere-tes-ecrans/"
     - https://www.levelesyeux.com/les-actions/les-projets-collectifs/le-proces-fictif-des-applis/
     - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/
     - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/
@@ -339,6 +349,7 @@ items:
   - "/les-actions/sensibiliser/les-ateliers/"
   - "/les-actions/sensibiliser/les-formations/"
   - "/les-actions/sensibiliser/references-et-pedagogie/"
+  - "/qui-se-cache-derriere-tes-ecrans/"
   - https://www.levelesyeux.com/les-actions/les-projets-collectifs/le-proces-fictif-des-applis/
   - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-defi-deconnexion/
   - https://www.levelesyeux.com/les-actions/sensibiliser/les-projets-collectifs/le-projet-plus-de-livres-moins-decrans/
