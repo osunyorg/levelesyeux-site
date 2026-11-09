@@ -955,6 +955,10 @@ from = "/interventions/agenda/2023-12-05-ateliers-deconnexion-4/index.html"
 to = "/agenda/2023/ateliers-deconnexion-4/"
 
 [[redirects]]
+from = "/les-actions/sensibiliser/qui-se-cache-derriere-tes-ecrans/index.html"
+to = "/qui-se-cache-derriere-tes-ecrans/"
+
+[[redirects]]
 from = "/agenda/2024-01-13-sensibilisation-a-la-surexposition-aux-ecrans/index.html"
 to = "/agenda/2024/sensibilisation-a-la-surexposition-aux-ecrans/"
 
