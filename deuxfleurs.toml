@@ -99,6 +99,10 @@ from = "/agenda/2024-06-01-atelier-planete-ia/index.html"
 to = "/agenda/2024/atelier-planete-ia/"
 
 [[redirects]]
+from = "/equipe/chloe-allano/index.html"
+to = "/equipe/clhoe-allano/"
+
+[[redirects]]
 from = "/interventions/agenda/2023-10-11-conference-debat/index.html"
 to = "/agenda/2023/conference-debat/"
 
